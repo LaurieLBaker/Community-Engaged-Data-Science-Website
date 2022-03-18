@@ -1,0 +1,2324 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Programming for Data Analysis and Visualization">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Winter 2022">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="rgb(19, 84, 142)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.8c1f4b385bdf9bf84df1dfae5955e979.css">
+
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="DCS 210">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="DCS 210">
+  <meta property="og:url" content="/">
+  <meta property="og:title" content="DCS 210">
+  <meta property="og:description" content="Winter 2022"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2021-12-27T00:00:00&#43;00:00">
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "/"
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>DCS 210</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">DCS 210</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#timetable" data-target="#timetable"><span>Timetable</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#schedule" data-target="#schedule"><span>Schedule</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#syllabus" data-target="#syllabus"><span>Syllabus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#help" data-target="#help"><span>Help</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#extra" data-target="#extra"><span>Extra credit</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#project" data-target="#project"><span>Project</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#resources" data-target="#resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people" data-target="#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://github.com/" target="_blank" rel="noopener"><span><i class='fab fa-github'></i></span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://rstudio.cloud" target="_blank" rel="noopener"><span><i class='fab fa-r-project'></i></span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://lyceum.bates.edu/" target="_blank" rel="noopener"><span><i class='fas fa-university'></i></span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<span class="js-widget-page d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="portrait" src="/authors/admin/avatar_hua74af901d7485168e9b2819a5f7ffe89_334709_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2>Programming for Data Analysis and Visualization</h2>
+        <h3>Winter 2022</h3>
+
+        
+        <h3>
+          <a href="https://lyceum.bates.edu/" target="_blank" rel="noopener">
+          <span>Bates College</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://rstudio.cloud/" target="_blank" rel="noopener">
+            <i class="fab fa-r-project big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://lyceum.bates.edu/" target="_blank" rel="noopener">
+            <i class="fas fa-question-circle big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://lyceum.bates.edu/" target="_blank" rel="noopener">
+            <i class="fas fa-university big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Community-Engaged Data Science</h1>
+
+    <p>Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions. Gain insight from data, reproducibly (with literate programming and version control) and collaboratively, using modern programming tools and techniques. The course will focus on the R statistical computing language and assumes no statistical or computing background.</p>
+
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="timetable" class="home-section wg-featurette   "  >
+    <div class="container">
+      
+
+
+<div class="row featurette">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Timetable</h1>
+    <p>Afternoons: Project Work. Morning: Optional Tutorials.</p>
+  </div>
+  
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-keyboard"></i></div>
+    <h3>Monday</h3>
+    <p>Sprint planning and sprint review</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-laptop-code"></i></div>
+    <h3>Tuesday, Wednesday</h3>
+    <p>Project work and meetings with community partners</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="far fa-comments"></i></div>
+    <h3>Thursday</h3>
+    <p>Presentations</p>
+  </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+    
+    
+      
+    
+    
+    
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="demo" class="home-section wg-blank dark parallax " style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(&#39;/img/tidydata_5.jpg&#39;);padding: 200px 0 200px 0;" >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      <h1>Welcome to Community-Engaged Data Science!</h1>
+      
+      
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="schedule" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Course Schedule</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/01-week/" >Week 1 Project Development</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Get acquainted with the projects, the technology, the workflow, and the skills you want to acquire during the course.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    17 Jan 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/01-week/" >
+      <img src="/post/01-week/featured_hudd2f2aa37f0ff30596b2385b86d23dc0_179526_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/00-overview/" >Overview</a>
+    </h3>
+
+    
+    <div class="article-style">
+      This is a tentative course schedule. The flow of topics might change slightly depending on how quickly / slowly it feels right to …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    4 Jan 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/00-overview/" >
+      <img src="/post/00-overview/featured_hu70745b84359144ab0db8f3690da66c36_864421_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/02-week/" >Week 2 - Visualizing data</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Data visualization and interpretation of graphical information.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    24 Jan 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/02-week/" >
+      <img src="/post/02-week/featured_hu1c7939e0fff70b4fc1b70a6b36d76f4b_1609406_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/03-week/" >Week 3 - Wrangling and tidying data</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Data wrangling, joining, and tidying
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    31 Jan 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/03-week/" >
+      <img src="/post/03-week/featured_hua7377bed023f03df76f8fb4c59397472_329493_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/04-week/" >Week 4 - Importing and recoding data</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Importing data, data types and classes, recoding.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    7 Feb 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/04-week/" >
+      <img src="/post/04-week/featured_hubfe4dd4ab81257624c914b062162729e_483701_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="syllabus" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Syllabus</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <h2 id="course-description">Course Description</h2>
+<p>Hello and welcome to <em>Community-engaged Data Science</em>*. This course will introduce students to data analysis and visualization with R. This course is intended for students with a strong interest in applied problem-solving. Students will work in multi-disciplinary teams on a research problem identified by a community partner from business, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques.
+This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. Students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.
+Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving.</p>
+<p>The course content is organized in three units:</p>
+<ul>
+<li><strong>Unit 1 - What is the plan?:</strong> This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, and explore approaches to solving the problem.</li>
+<li><strong>Unit 2 - Exploring data:</strong> This unit focuses on exploring the problem through data wrangling and data visualization. In this unit, we focus on tidy data, data import, data cleaning, and data curation.</li>
+<li><strong>Unit 3 - Project Delivery and Next Steps:</strong> After completing the exploratory phase, students wrap up the project in a report and present next steps.</li>
+</ul>
+<h2 id="dcs-values-goals-and-practices">DCS Values, Goals, and Practices</h2>
+<p>The primary purpose of Digital and Computational Studies is to bridge the liberal arts education to computing and the digital world.  In this, we are committed to actively creating digital and computational spaces that are radically inclusive. Our core commitment is to integrating equity and social justice throughout our curriculum, and engaging students in metacognition to support this work. Digital and Computational Studies Courses fall into a continuum of experiences that range from critical digital studies to programming, with an integrated core that embraces both. See the <a href="https://www.bates.edu/digital-computational-studies/values-goals-and-practices/">DCS website</a> for details on DCS values, goals, and practices.</p>
+<h2 id="learning-objectives">Learning Objectives</h2>
+<p>This course is designed as a community learning journey. Together, we will:</p>
+<ul>
+<li>Identify and plan our own personal development plans.</li>
+<li>Play with computational ideas creatively, using a growth mindset which values revision and experimentation.</li>
+<li>Gain experience in data collection, wrangling, visualization, exploratory data analysis, predictive modeling and effective communication of results in partnership with community partners.</li>
+<li>Engage and reflect on contemporary issues in environmental and social justice related to your digital world, community and positionality. Critically evaluate the origins of data and the limitations of analysis techniques.</li>
+<li>Demonstrate community leadership skills as a collaborator that shares strengths, builds weaknesses, and contributes to a broader shared understanding.</li>
+<li>Build skills valued by employers including teamwork, reproducible analysis, effective communication, independent thinking, and problem solving.</li>
+</ul>
+<p>It is also my hope that in this course you:</p>
+<ul>
+<li>Develop an appreciation for reproducibility, transparency, accessibility and inclusivity in data collection, analysis, and communication.</li>
+<li>Build knowledge and skills in data science skills to tackle questions that are important to you.</li>
+</ul>
+<h2 id="course-materials-required">Course Materials required:</h2>
+<h3 id="books">Books:</h3>
+<p>All books for this course are freely available online as e-books. We will be using two main texts:</p>
+<ul>
+<li><a href="https://r4ds.had.co.nz/">R for Data Science</a> by Garrett Grolemund and Hadley Wickham</li>
+<li><a href="https://openintro-ims.netlify.app/">Introduction to Modern Statistics</a> by Mine Çetinkaya-Rundel and Johanna Hardin.</li>
+</ul>
+<h3 id="technology">Technology:</h3>
+<ul>
+<li>Bring a laptop to every class, we will be programming most days! We will be using RStudioCloud, you will get an invitation to create an account. If you have any difficulties with accessing a computer, let me know and we can arrange a chrome book from the library.</li>
+</ul>
+<h2 id="course-components">Course components</h2>
+<h3 id="weekly-structure">Weekly structure</h3>
+<p>This course is about doing. We will meet in class on . Through the course you will also be working towards your personal goals. The typical weekly class schedule will be:</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tuesday</td>
+<td>Review/Application Exercise/Code Along</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td>Lab</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>Student hours</td>
+</tr>
+</tbody>
+</table>
+<p>Outside of class you can expect to spend</p>
+<ul>
+<li>1-1.5 hours per week watching lectures;</li>
+<li>1-2 hours on the reading and interactive tutorials per week</li>
+<li>3-5 hours on homework assignments.</li>
+</ul>
+<h3 id="pre-recorded-videos">Pre-recorded videos</h3>
+<p>You will want to start watching videos for the following week on Thursday in preparation for the following Tuesday&rsquo;s review session (5 days after Thursday). To keep your learning active, we&rsquo;ll use Tuesday&rsquo;s class times to review the material covered in the lectures and readings, and to work on application exercises that you can complete on <a href="https://rstudio.cloud/">RStudio Cloud</a>. It is important that you keep up with the content assigned outside of class so that you are prepared for the labs and homework that week. The concepts covered in the course build on one another. If you feel yourself falling behind, please attend a review session with Ashka or book an appointment with me during student hours. We are happy to help with any of the concepts!</p>
+<h3 id="student-hours">Student hours</h3>
+<p>Student hours will be held on Wednesdays from 7-8.30pm. You can book an appointment in my calendar on <a href="https://calendly.com/laurie-baker/student-hours">calendly</a>.</p>
+<p>Student hours are a time to talk about the course content, a homework/grade, concerns about the course or personal matters, advice on your thesis or another data project, and next steps (internships, careers, majors, future classes). Meeting with students one on one is one of my favorite parts of the course, so do come by with any questions!</p>
+<h3 id="code-along-sessions">Code along sessions</h3>
+<p>We will periodically have code-along sessions on Tuesday where we will tackle a new data set and data visualization together. These sessions are a chance to learn about workflow and debugging techniques since there will inevitably be lots wrinkles to iron out during unstructured live coding.</p>
+<h3 id="labs">Labs</h3>
+<p>These will be held on Thursdays. During these sessions you will work individually or in teams on computing lab exercises and you will finish the exercises after class and turn in your lab reports by Wednesday at 23:59 EST. Attendance to class is important as you will be working on your labs individually and together in class. Labs will be submitted as GitHub repositories and the lowest score for each student will be dropped. <strong>Tip:</strong> Set up a weekly team meeting between Thursday and Wednesday to work with your team to finish the assignment.</p>
+<p>A frequently asked question is &ldquo;What happens if I can&rsquo;t make it to a lab one week because I&rsquo;m sick or have another obligation at that time?&rdquo; Answers below:</p>
+<ul>
+<li>If you&rsquo;re missing a workshop day due to short-term illness or some other reason, you should communicate this with your team and attend a team meeting before the deadline for the assignment to contribute to the teamwork. If you have made 0 commits towards a lab assignment, you will receive a 0 for that assignment, so you need to participate both for being a team player and also for your own individual score.</li>
+<li>You are allowed to drop one lab score, this will automatically be the lab with the lowest score. If you know you are going to miss a lab day and plan to drop that lab, you should let me know in advance so that I can organize and assign teams accordingly.</li>
+<li>If you&rsquo;re unable to contribute to a lab assignment because of an illness taking you away from school work for an extended period of time, you should let me and your team know that you won&rsquo;t be able to contribute to those lab(s) and we can discuss special circumstances and explore alternative arrangements to make up that work.</li>
+</ul>
+<p>Overall these policies are put in place to ensure communication between team members, respect for each others' time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class once or twice.</p>
+<h3 id="application-exercises">Application Exercises:</h3>
+<p>In addition to reviewing the video lecture material in class, we will also be working on application exercises together in class. Application exercises will be completed on <a href="https://rstudio.cloud/">RStudio Cloud</a>.</p>
+<h3 id="homework-assignments">Homework assignments</h3>
+<p>Beyond the in class activities, you will be assigned weekly larger programming tasks throughout the semester. These assignments will be completed individually, and submitted as GitHub repositories. Homework assignments with the lowest score for each student will be dropped. <strong>Tip:</strong> Do the (optional) R tutorials which will introduce you to the datasets and topics covered in the homework assignments.</p>
+<h3 id="quizzes">Quizzes</h3>
+<p>These weekly multiple choice quizzes will help you evaluate your learning continuously. The online quiz will be graded for completion. <strong>Tip:</strong> Don&rsquo;t leave it till the last minute!</p>
+<h3 id="reflections">Reflections</h3>
+<p>Throughout the course there will be reflection assignments where we engage and reflect on contemporary issues in environmental and social justice related to our digital world, community and identity.</p>
+<h3 id="final-project">Final project</h3>
+<p>You will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an &ldquo;interesting&rdquo; problem using the tools and techniques covered in this class. Additional details on the project will be provided as the course progresses. Each team&rsquo;s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review. You must complete the final project and be in class to present it in order to pass this course. <strong>Tip:</strong> Stick to optional interim deadlines (outline, draft presentation) to pace your work on the project.</p>
+<h3 id="teams">Teams</h3>
+<p>For all of the team based assignments in this class you will be randomly assigned to teams of 2 or 3 students - these teams will change throughout the semester. You will work in these teams during class and on the lab assignments. For team based assignments, all team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members on lyceum after each assignment is due. During the labs, we will be working together using <strong>pair programming</strong>, where you will take it in turns to write and review the the code, swapping roles frequently. Once the assignment is submitted the contributors will share responsibility for any revisions to be made based on feedback. Failure to adequately contribute to an assignment will result in a penalty to your grade relative to the team&rsquo;s overall grade.</p>
+<p>Students are expected to make use of the provided GitHub repository as their central collaborative platform. Commits to this repository will be used as a metric (one of several) of each team member&rsquo;s relative contribution for each homework.</p>
+<h2 id="grade">Grade:</h2>
+<p>Your overall course grade will be comprised of the following components, and their weights:</p>
+<ul>
+<li>Homework: 30%</li>
+<li>Lab: 20%</li>
+<li>Project: 30%</li>
+<li>Quiz: 10%</li>
+<li>Attendance: 5%</li>
+<li>Reflections: 5%</li>
+</ul>
+<h3 id="extra-credit">Extra Credit:</h3>
+<p>Tutoring in the local school and completing a reflection can count for 5% credit on the course. This credit can be counted in place of a homework assignment. Go to the <a href="/#extra">extra credit</a> tab to find out more.</p>
+<h3 id="grading-scale">Grading scale:</h3>
+<p>Lower bound percent earned for letter grade:
+A  93     A-  90    B+  87    B  83     B-  80    C+  77    C  73    C-  70   D+  67   D  63   D-  60   F below 60
+A+    reserved for exceptional work</p>
+<h2 id="policies">Policies</h2>
+<!---
+### Zoom expectations
+ 
+ - When in a large session you should,
+   - have your microphone muted by default
+   - use the raise your hand feature or type in the chat for questions and comments
+ 
+ - In the small team sessions you should,
+   - have your camera turned on as much as possible
+   - engage with your team mates via voice and text chat
+   - take turns sharing your screen when necessary
+-->
+<h3 id="collaboration-policy">Collaboration policy</h3>
+<p>Only work that is clearly assigned as team work should be completed collaboratively. Individual assignments must be completed individually, you may not directly share or discuss answers / code with anyone other than the instructors and tutors. You are welcome to discuss the problems in general and ask for advice.</p>
+<h3 id="sharing--reusing-code">Sharing / reusing code</h3>
+<p>I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something the course&rsquo;s policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class. You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team.</p>
+<h3 id="academic-integrity">Academic integrity</h3>
+<p>Bates College takes academic misconduct very seriously and is committed to ensuring that so far as possible it is detected and dealt with appropriately.</p>
+<p>Cheating or plagiarizing on assignments are a breach of trust with classmates and faculty, violate the University policies, and will not be tolerated. Make sure to review the <a href="https://www.bates.edu/student-affairs/files/2015/02/Student-Info-Sheet-Academic-Integrity-2016-17.pdf">Student Guide to Academic Integrity Policies and Procedures</a> on the Bates website. Such incidences will result in a 0 grade for all parties involved.</p>
+<h2 id="universal-learning-and-learning-in-community">Universal Learning and Learning in Community</h2>
+<p>Many of us learn in different ways.  For example, you may process information by speaking and listening, so while lectures are quite helpful for you, some of the written material may be difficult to absorb. You might have difficulty following lectures, but are able to quickly assimilate written information.  You may need to fidget to focus in class.  You might take notes best when you can draw a concept.  For some of you, speaking in class can be a stressful or daunting experience.  For some of you, certain topics or themes might be so traumatic as to be disruptive to learning. The principle of Universal Design for Learning calls for our classrooms, our virtual spaces, our practices and our interactions to be designed to include as many different modes of learning as possible, and is a principle I take seriously in this class.</p>
+<p>It is also my goal to create an inclusive classroom, which depends on community building, and which requires everyone to come to class with mutual respect, civility, and a willingness to listen to and observe others. As such the syllabus serves as a contract of some expectations between all members of the class, including myself.</p>
+<p>If you anticipate or experience any barriers to learning in this course, please reach out to me and your student support advisor.  If you have a disability, or think you may have a disability, you may also want to meet with <a href="https://www.bates.edu/student-affairs/student-affairs-staff/abigail-nelson-2/">Abigail Nelson</a>, Assistant Dean of Accessible Education and Student Support, to begin this conversation or request an official accommodation. You can find more information about the Office of Accessible Education and Student Support, including contact information, on the accessible education page of the <a href="http://www.bates.edu/accessible-education/">Bates website</a>.  If you have already been approved for accommodations through the Office of Accessible Education please let me know! We can meet 1-1 to explore concerns and potential options.  If you do not have a documented disability, remember that  student support services are available to all students through the Math and Stats Workshop (R, Math, and Stats).</p>
+<p>The college prohibits discrimination on the basis of race, color, national or ethnic origin, religion, sex, sexual orientation, gender identity or gender expression, age, disability, genetic information or veteran status and other legally protected statuses in the recruitment and admission of its students, in the administration of its education policies and programs, or in the recruitment of its faculty and staff. Bates College adheres to all applicable state and federal equal opportunity laws and regulations. Violations of this policy can be reported to <a href="https://www.bates.edu/faculty-expertise/profile/gwen-l-lexow/">Gwen Lexow</a>, Director of Title IX and Civil Rights Compliance or through the Bates website: <a href="www.bates.edu/sexual-respect/non-discrimination-policy/">www.bates.edu/sexual-respect/non-discrimination-policy/</a></p>
+<h3 id="late-work-extensions-and-special-circumstances">Late work, extensions, and special circumstances</h3>
+<p>All work is due on the stated due date. Due dates are there to help guide your pace through the course and they also allow me (the course professor) to return marks and feedback to you in a timely manner. However, sometimes life gets in the way and you might not be able to turn in your work on time. Note, first of all, that the lowest score of labs and homework assignments is dropped. So if you miss one assignment, this can be your dropped score. Resubmission is built into each assignment. You will first receive feedback on each assignment before receiving a final grade. All resubmissions are due 7 days after feedback is received. It is your responsibility to keep track of this deadline. For instance, if a homework is due on</p>
+<p>If you intend to submit work late for an assignment or project, you must <strong>notify me</strong> before the original deadline and as soon as the completed work is submitted on GitHub. Lab work cannot be submitted late, Note also that each of you have 3 late days you can put towards homework assignments during the semester without receiving a late penalty.</p>
+<h3 id="learning-during-a-pandemic">Learning during a pandemic</h3>
+<p>I want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don&rsquo;t hesitate to ask.</p>
+<ul>
+<li>
+<p>You <em>never</em> owe me personal information about your health (mental or physical) but you&rsquo;re always welcome to talk to me. If I can&rsquo;t help, I likely know someone who can.</p>
+</li>
+<li>
+<p>I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.</p>
+</li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="help" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Help</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>Most of you will need help at some point and we want to make sure you can identify when that is without getting too frustrated and feel comfortable seeking help.</p>
+<ul>
+<li><strong>Lyceum Forum:</strong> The best way to get any questions on course content, technology, logistics, policies is to post your question on the lyceum forum. And you are encouraged to answer each others' questions here as well. When you post a question on lyceum, you can choose to do so anonymously to your classmates. Note that the course instructor and tutors can always see your name, and this is for a good reason! We want to be able to identify students who might be struggling so that we can extend help. Similarly, we want to know who you are if you&rsquo;re providing great answers to others' questions!</li>
+<li><strong>Student hours:</strong> Student hours are times for you to ask me questions about the course such as discussing a homework, asking me to explain a concept, or discuss future plans like majors, careers, and internships. My hours are Wednesday 4-5 and Thursday 4-5. You can book to either meet me in Hedge Hall Rm 312 or to go for a walk around the puddle through <a href="https://calendly.com/laurie-baker/student-hours">calendly</a>. At busy points throughout the semester I will open up additional time slots. Please feel free to drop by with any questions, or just to say hi!</li>
+<li><strong>Email:</strong> Please refrain from emailing any course content questions (those should go on Lyceum), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g. illness, missed assignments).</li>
+<li>The <a href="https://www.bates.edu/math-stat-workshop/">Math and Statistics Workshop</a> at Bates is open Mon-Thurs from 11-4 and 11-3 on Friday.</li>
+<li>For more general support and advice, please make use of the following resources:
+<ul>
+<li>Your student support advisor (especially if you are struggling more generally)</li>
+<li><a href="https://www.bates.edu/counseling-psychological-services/">Counseling and Psychological Services</a></li>
+<li><a href="https://www.bates.edu/health-services/">Health Services</a></li>
+<li><a href="https://www.bates.edu/chaplaincy/">Multifaith Chaplaincy</a></li>
+<li><a href="https://www.bates.edu/oie/">Office for Intercultural Education</a></li>
+<li><a href="https://www.bates.edu/accessible-education/">Accessible Education and Student Support</a></li>
+</ul>
+</li>
+</ul>
+<p>Make good use of this support system, it is there for you! And if you&rsquo;re not sure where to go for help, just ask.</p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="extra" class="home-section wg-portfolio   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>Extra credit</h1>
+    
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+
+
+    <p>There will be a few opportunities to gain extra credit throughout the semester that I will announce in class. These are still be finalized for this semester. Extra credit is worth 5% and can take the place of one of your weekly homework assignments that counts towards your final grade. Below are extra credit opportunities that have been offered in the past.</p>
+<h2 id="tutoring-in-lewiston-and-auburn">Tutoring in Lewiston and Auburn</h2>
+<p><strong>Edward Little High School (77 Harris St, Auburn)</strong></p>
+<ul>
+<li>In-person classroom algebra and geometry tutoring</li>
+<li>Mon-Fri, 7:50am-2:10pm (one hour, once a week)</li>
+<li>Contact: MaryBeth Galway, <a href="mailto:mgalway@auburnschl.edu">mgalway@auburnschl.edu</a>; Lisa Whitman, <a href="mailto:lwhitman@auburnschl.edu">lwhitman@auburnschl.edu</a></li>
+</ul>
+<p><strong>Lewiston High School Remote Tutoring Program</strong></p>
+<ul>
+<li>One-on-one math tutoring</li>
+<li>Mon-Fri, 8am-7pm (one hour, once a week)</li>
+<li>Contact: Doug Dumont, <a href="mailto:ddumont@lewistonpublicschools.org">ddumont@lewistonpublicschools.org</a></li>
+</ul>
+<p><strong>Tree Street Youth (144 Howe Street)</strong></p>
+<ul>
+<li>In-person math tutoring for middle and high school youth</li>
+<li>Mon-Fri, 2:30-4:30 (one hour, once a week)</li>
+<li>Contact: Keenan Shields, <a href="mailto:keenan@treestreetyouth.org">keenan@treestreetyouth.org</a></li>
+</ul>
+
+
+    
+
+    <div class=" row js-layout-row ">
+      
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="project" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Project</h1>
+      <p>Showcase your inner data scientist</p>
+    </div>
+    <div class="col-12 col-lg-8">
+      <h2 id="tldr">TL;DR</h2>
+<p>Pick a dataset, any dataset&hellip;</p>
+<p>&hellip;and do something with it. That is your final project in a nutshell. More details below.</p>
+<p>The final project for this class will consist of analysis on a dataset of your own choosing. The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.</p>
+<p>The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.</p>
+<p>The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (<code>tidyverse</code>) is required. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R.
+Here is an example of a past <a href="https://dcs-210.github.io/project-lizakemuntopatrick/">project write up</a> and <a href="https://dcs-210.github.io/project-lizakemuntopatrick/presentation/presentation.html#1">presentation</a> on <strong>Lessons to be Learned from Super Bowl Advertisements</strong>.</p>
+<h3 id="data">Data</h3>
+<p>In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 to 20 variables (exceptions can be made but you must speak with me first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.</p>
+<p>If you are using a dataset that comes in a format that we haven&rsquo;t encountered in class, make sure that you are able to load it into R as this can be tricky depending on the source. If you are having trouble ask for help before it is too late.</p>
+<p><strong>Note on reusing datasets from class:</strong> Do not reuse datasets used in examples, homework assignments, or labs in the class.</p>
+<p>Below are a list of data repositories that might be of interest to browse. You&rsquo;re not limited to these resources, and in fact you&rsquo;re encouraged to venture beyond them. But you might find something interesting there:</p>
+<ul>
+<li><a href="https://github.com/rfordatascience/tidytuesday">TidyTuesday</a></li>
+<li><a href="https://www.opendata.nhs.scot/">NHS Scotland Open Data</a></li>
+<li><a href="https://edinburghopendata.info/">Edinburgh Open Data</a></li>
+<li><a href="https://statistics.gov.scot/home">Open access to Scotland&rsquo;s official statistics</a></li>
+<li><a href="https://www.bikeshare.com/data/">Bikeshare data portal</a></li>
+<li><a href="https://data.gov.uk/">UK Gov Data</a></li>
+<li><a href="https://www.kaggle.com/datasets">Kaggle datasets</a></li>
+<li><a href="http://openintrostat.github.io/openintro/">OpenIntro datasets</a></li>
+<li><a href="https://github.com/awesomedata/awesome-public-datasets">Awesome public datasets</a></li>
+<li><a href="https://chronicdata.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/q6p7-56au">Youth Risk Behavior Surveillance System (YRBSS)</a></li>
+<li><a href="https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html">PRISM Data Archive Project</a></li>
+<li><a href="https://dataverse.harvard.edu/">Harvard Dataverse</a></li>
+<li><a href="https://www.icpsr.umich.edu/web/pages/NACJD/index.html">National Archive of Criminal Justice Data</a></li>
+<li><a href="https://www.icpsr.umich.edu/web/ICPSR/studies/37938">TransPop</a> first national probability sample of transgender individuals in the United States.</li>
+<li><a href="https://www.data-is-plural.com/archive/">Data is Plural</a></li>
+<li><a href="https://data.census.gov/cedsci/">American Community Survey</a> some Maine data here.</li>
+<li><a href="https://usa.ipums.org/usa/">IPUMS USA</a> census microdata</li>
+<li><a href="https://scarab.bates.edu/lawrance/">The Lawrence Papers</a> from Bates and <a href="https://bates-archives.libraryhost.com/repositories/2/resources/185">metadata</a></li>
+<li><a href="https://libguides.bates.edu/health-economics/resources">Health-related datasets</a> compiled by Bates library</li>
+<li>If you know of others, let me know, and we&rsquo;ll add here&hellip;</li>
+</ul>
+<h3 id="deliverables">Deliverables</h3>
+<p>Together with your team, you will produce a weekly presentation to stakeholders. This is an opportunity to show your progress, ask questions, and get feedback.</p>
+<p>You will also work on and submit a final report to the stakeholders.</p>
+<h4 id="team-contract">Team Contract</h4>
+<p>One of the main goals of this course is that you build and develop community leadership skills as a collaborator that shares strengths, builds weaknesses, and contributes to a broader shared understanding. These skills will serve you in this course and beyond in your careers. A crucial part of building strong collaborations is good communication.</p>
+<p>Each team will draft a group contract. A group contract is a document to help you formalize the expectations you have for your group members and what they can expect of you. It will help you think about what you need from each other to work effectively as a team! You will create and agree on this contract as a team and refer to it during the project.</p>
+<p>At a minimum, your group contract must address these questions:</p>
+<h5 id="goals">Goals:</h5>
+<ul>
+<li>What are our team goals for this project?</li>
+<li>What do we want to accomplish?</li>
+<li>What skills do we want to develop or refine?</li>
+</ul>
+<h5 id="expectations">Expectations:</h5>
+<ul>
+<li>What do we expect of one another regarding attendance at meetings, participation, frequency of communication, quality of work, etc.?</li>
+</ul>
+<h5 id="policies--procedures">Policies &amp; Procedures:</h5>
+<ul>
+<li>What rules can we agree on to help us meet our goals and expectations?</li>
+</ul>
+<h5 id="consequences">Consequences:</h5>
+<ul>
+<li>How will we address non-performance regarding these goals, expectations, policies and procedures?</li>
+</ul>
+<p>Each member should &ldquo;sign&rdquo; (you can just type out your name) at the bottom of the submission.</p>
+<p>Credit for Group Contract: Tiffany Timbers, University of British Columbia</p>
+<h4 id="report">Report</h4>
+<p>The write-up, which you can also think of as an summary of your project, should provide information on the dataset you&rsquo;re using, your research question(s), your methodology, and your findings.</p>
+<h4 id="repo-organization">Repo organization</h4>
+<p>The following folders and files in your project repository:</p>
+<ul>
+<li><code>presentation.Rmd</code> + <code>presentation.html</code>: Your presentation slides</li>
+<li><code>README.md</code>: Your write-up</li>
+<li><code>/data/*</code>: Your dataset in csv or RDS format, in the <code>/data</code> folder.</li>
+<li><code>/report</code>: Your report write up</li>
+</ul>
+<p>Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted including labelling code chunks. Pay attention to images and plots included in the presentation and make sure to include appropriate alternative text.</p>
+<h2 id="tips">Tips</h2>
+<ul>
+<li>
+<p>You&rsquo;re working in the same repo as your teammates now, so merge conflicts will happen, issues will arise, and that&rsquo;s fine! Pull, commit and push often, and ask questions when stuck.</p>
+</li>
+<li>
+<p>Review the marking guidelines below and ask questions if any of the expectations are unclear.</p>
+</li>
+<li>
+<p>Make sure each team member is contributing, both in terms of quality and quantity of contribution (we will be reviewing commits from different team members).</p>
+</li>
+<li>
+<p>Set aside time to work together.</p>
+</li>
+<li>
+<p>When you&rsquo;re done, review the documents on GitHub to make sure you&rsquo;re happy with the final state of your work. Then go get some rest!</p>
+</li>
+<li>
+<p>Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.</p>
+</li>
+</ul>
+<h2 id="marking">Marking</h2>
+<table>
+<thead>
+<tr>
+<th>Total</th>
+<th>100 pts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Proposal</td>
+<td>10 pts</td>
+</tr>
+<tr>
+<td>Presentation</td>
+<td>50 pts</td>
+</tr>
+<tr>
+<td>Write-up</td>
+<td>15 pts</td>
+</tr>
+<tr>
+<td>Reproducibility and organization</td>
+<td>10 pts</td>
+</tr>
+<tr>
+<td>Team peer evaluation</td>
+<td>10 pts</td>
+</tr>
+<tr>
+<td>Classmates' evaluation</td>
+<td>5 pts</td>
+</tr>
+</tbody>
+</table>
+<h3 id="criteria">Criteria</h3>
+<ul>
+<li><strong>Content</strong> - What is the quality of research and/or policy question and relevancy of data to those questions?</li>
+<li><strong>Correctness</strong> - Are statistical procedures carried out and explained correctly?</li>
+<li><strong>Writing and Presentation</strong> - What is the quality of the statistical presentation, writing, and explanations?</li>
+<li><strong>Creativity and Critical Thought</strong> - Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?</li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="resources" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Resources</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <h2 id="books">Books</h2>
+<ul>
+<li><a href="http://r4ds.had.co.nz">R 4 Data Science</a></li>
+</ul>
+<h2 id="tools">Tools</h2>
+<ul>
+<li><a href="https://rstudio.cloud/">RStudio Cloud</a></li>
+<li><a href="https://github.com/">GitHub</a></li>
+</ul>
+<h2 id="cheatsheets">Cheatsheets</h2>
+<ul>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf">RStudio</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf">R Markdown</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf">Data visualization with ggplot2</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf">Data wrangling with dplyr</a></li>
+<li><a href="https://rstudio.github.io/reticulate/">Python with Reticulate</a></li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="people" class="home-section wg-people   "  >
+    <div class="container">
+      
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>People</h1>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Course organisers</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/laurie/"><img class="portrait" src="/authors/laurie/avatar_hu30116ce9545207e6cc07ea892252ff02_106302_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/laurie/">Dr. Laurie Baker</a></h2>
+      
+      
+    </div>
+  </div>
+
+  
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="acknowledgements" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Acknowledgements</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>This course draws on several resources including the <a href="https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html">Turing Way</a>. Featured artwork by <a href="https://github.com/allisonhorst/stats-illustrations">@AllisonHorst</a>.</p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.ed33540d237401c60f85cf8788c40575.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    ©2022 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

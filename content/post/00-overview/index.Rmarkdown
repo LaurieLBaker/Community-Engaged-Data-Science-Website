@@ -1,0 +1,148 @@
+---
+title: "Overview"
+author: ''
+date: '2021-12-15'
+slug: []
+categories: []
+tags: []
+subtitle: Tentative Course Schedule
+summary: This is a tentative course schedule. The flow of topics might change slightly
+  depending on how quickly / slowly it feels right to progress through them. However,
+  the dates for presentations to community partners and deadlines for the final report will be fixed.
+authors: []
+lastmod: '2021-01-04T10:39:50-04:00'
+featured: yes
+image:
+  caption: Calendar. Photo by <a href="https://unsplash.com/@olivetatiane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olive
+    Tatiane</a> on <a href="https://unsplash.com/s/photos/calendar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+The figure below is a visual summary of the tentative course schedule. The flow of topics for each week might change slightly depending on how quickly / slowly it feels right to progress through them. However the deadlines for assignments will not change barring unexpected circumstances.
+
+```{r schedule, echo=FALSE, warning=FALSE, message=FALSE, out.width="100%", fig.asp=0.9}
+library(tidyverse)
+library(viridis)
+library(sugrrants)
+library(lubridate)
+
+d <- read_csv("course-calendar-bates.csv") %>%
+  mutate(date = mdy(date))
+
+d_cal <- d %>%
+  frame_calendar(
+    x = 1, y = 1, date = date,
+    calendar = "weekly", week_start = -1
+  ) %>%
+  mutate(
+    day_short = str_sub(day, 1, 1),
+    day_short = if_else(day == "Thursday", "Th", day_short),
+    day_short = if_else(day == "Saturday", "Sa", day_short),
+    day_short = if_else(day == "Sunday", "Su", day_short),
+    day_of_month = day(date),
+    month = month(date, label = TRUE, abbr = TRUE),
+    day_of_month = paste(month, day_of_month),
+    due_type = fct_relevel(due_type, "Homework", "Quiz", "Lab", "Project", "Feedback survey", "Break", "Classes Begin", "Reflection", "Finals")
+  ) 
+
+d_cal %>%
+  ggplot(aes(x = .x, y = .y)) +
+  geom_tile(aes(fill = due_type, alpha = mark_type), colour = "gray50") +
+  # labels
+  geom_text(
+    data = d_cal %>% filter(mark_type == "Marked"), 
+    aes(label = due_detail), color = "white",
+    size = 3, fontface = "bold"
+  ) +
+  geom_text(
+    data = d_cal %>% filter(mark_type != "Marked"),
+    aes(label = due_detail), color = "white",
+    size = 3, fontface = "bold"
+  ) +
+  # day
+  geom_text(
+    data = d_cal %>% filter(is.na(due_type)),
+    aes(label = day_short), color = "grey50", size = 2,
+    nudge_x = -0.08, nudge_y = 0.03, hjust = 0
+  ) +
+  geom_text(
+    data = d_cal %>% filter(!is.na(due_type)),
+    aes(label = day_short), color = "white", size = 2,
+    nudge_x = -0.08, nudge_y = 0.03, hjust = 0
+  ) +
+  # date
+  geom_text(
+    data = d_cal %>% filter(is.na(due_type)),
+    aes(label = day_of_month), color = "grey50", size = 2,
+    nudge_x = 0.08, nudge_y = -0.03, hjust = 1
+  ) +
+  geom_text(
+    data = d_cal %>% filter(!is.na(due_type)),
+    aes(label = day_of_month), color = "white", size = 2,
+    nudge_x = 0.08, nudge_y = -0.03, hjust = 1
+  ) +
+  # colors
+  scale_fill_manual(
+    values = c(
+      "Homework"         = "#8fada7",
+      "Quiz"             = "#277f8e",
+      "Lab"              = "#99B2DD",
+      "Project"          = "#5A5D74",
+      "Reflection"          = "#e9d968",
+      "Break"     = "#CCD0D4",
+      "Finals"     = "#CCD0D4",
+      "Feedback survey"  = "#E9AFA3"
+    ),
+    na.translate = FALSE
+  ) +
+  # alpha
+  scale_alpha_manual(values = c("Marked" = 1, "Not marked" = 0.75), guide = FALSE) +
+  # theme
+  theme_void() +
+  theme(
+    legend.position = "bottom",
+    plot.caption = element_text(face = "italic", colour = "gray50", hjust = 1, vjust = 33)
+  ) +
+  labs(
+    fill = "",
+    caption = "Homework 1, Lab 1, Quiz 0, and course feedback surveys are not marked."
+  ) +
+  geom_text(
+    data = d_cal %>% filter(day == "Monday"),
+    aes(y = .y, label = paste("Week", week)), x = -0.1,
+    hjust = 1, color = "grey50"
+  ) +
+  coord_cartesian(xlim = c(-0.2, 1.03), clip = "off")
+```
+
+### Tasks
+
+- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud
+- Complete the [Getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
+- Add a community rule to the google doc on [Lyceum](https://lyceum.bates.edu/login/index.php)
+
+### Class Activities
+
+| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
+|:---|:---|:---|
+| Intro | Welcome to Community-Engaged Data Science  | Mon, 2 May |
+
+
+### Assignments
+
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| R 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Wed, 6 May, 23:59 EST |
+| E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
+| *Due next week* | | |
+
+
+### Readings
+
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| :page_facing_up: | [Course syllabus](/#syllabus) | **Required** | 
+| :open_book: | [Planning for Project Design, The Turing Way](https://the-turing-way.netlify.app/project-design/pd-overview/pd-overview-planning.html) | **Required** |
