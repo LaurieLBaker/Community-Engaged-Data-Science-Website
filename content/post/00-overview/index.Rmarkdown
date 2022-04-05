@@ -1,7 +1,7 @@
 ---
 title: "Overview"
 author: ''
-date: '2021-12-15'
+date: '2021-05-01'
 slug: []
 categories: []
 tags: []
@@ -43,9 +43,7 @@ d_cal <- d %>%
     day_short = if_else(day == "Sunday", "Su", day_short),
     day_of_month = day(date),
     month = month(date, label = TRUE, abbr = TRUE),
-    day_of_month = paste(month, day_of_month),
-    due_type = fct_relevel(due_type, "Homework", "Quiz", "Lab", "Project", "Feedback survey", "Break", "Classes Begin", "Reflection", "Finals")
-  ) 
+    day_of_month = paste(month, day_of_month)) 
 
 d_cal %>%
   ggplot(aes(x = .x, y = .y)) +
@@ -86,14 +84,10 @@ d_cal %>%
   # colors
   scale_fill_manual(
     values = c(
-      "Homework"         = "#8fada7",
-      "Quiz"             = "#277f8e",
-      "Lab"              = "#99B2DD",
-      "Project"          = "#5A5D74",
-      "Reflection"          = "#e9d968",
-      "Break"     = "#CCD0D4",
-      "Finals"     = "#CCD0D4",
-      "Feedback survey"  = "#E9AFA3"
+      "Sprint Planning"         = "#8fada7",
+      "Presentation"             = "#277f8e",
+      "Partner meeting"              = "#99B2DD",
+      "Reflection"          = "#e9d968"
     ),
     na.translate = FALSE
   ) +

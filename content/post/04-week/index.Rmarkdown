@@ -11,7 +11,7 @@ authors: []
 lastmod: '2021-02-07T21:05:56-04:00'
 featured: yes
 image:
-  caption: 'Bringing it all together. Photo by <a href="https://unsplash.com/@kdelpdp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristina Delp</a> on <a href="https://unsplash.com/s/photos/maine-lobster?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: 'Bringing it all together. Photo by <a href="https://unsplash.com/@kdelpdp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristina Delp</a> on <a href="https://unsplash.com/s/photos/maine-lobster?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a
   '
   focal_point: ''
   preview_only: no
