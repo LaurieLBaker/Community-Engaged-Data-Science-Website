@@ -19,48 +19,46 @@ projects: []
 ---
 
 
-### Tasks
 
-- Watch the [videos](/post/03-week/#videos)
-- Complete the [readings](/post/03-week/#readings)
-- Complete the [assignments](/post/03-week/#assignments)
+### Optional Morning Programming Tutorials
 
-
-### Videos
-
-You can access the course videos on YouTube. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM).
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
-| 01 | Tidy data | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/Ux85eR3h9hw) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d05-tidy-data/u2-d05-tidy-data.html) | 6:46 |
-| 02 | Grammar of data wrangling | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/ZCaYBES_VEk) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d06-grammar-wrangle/u2-d06-grammar-wrangle.html) | 13:13 |
-| 03 | Working with a single data frame | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/0229Uq2hkJo) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d07-single-df/u2-d07-single-df.html) | 32:15 |
-| 04 | Working with multiple data frames | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/VdV5ABsaf5Y) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d08-multi-df/u2-d08-multi-df.html) | 17:26 |
-| 05 | Tidying data | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/x3KM5uxaFdI) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d09-tidying/u2-d09-tidying.html) | 20:14 |
-
-
-### Class Activities
-
-| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
-|:---|:---|:---|
-| Review | Tidying, Wrangling, and Joins | Tue, 1 Feb |
-| Lab 3 | [Nobel laureates](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-03/lab-03-nobel-laureates.html) | Thu, 3 Feb |
-
+ | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> |
+|:---|:---|:---|:----|
+| Introduction to Agile Project Management | Tue, 3 May | 9.00-10.30 am | DCS Lounge |
+| Working with Community Partners | Tue, 3 May | 10.30-11.45 am |  Harward Center |
+| Tour of RStudio and intro to tidy data and dplyr verbs | Wed, 4 May | 9.00-11.00 am | DCS Lounge |
+| Intro to ggplot2  | Thu, 5 May | 9-11 am |  DCS Lounge |
 
 ### Assignments
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Lab 02 | [Plastic waste](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-02/lab-02-plastic-waste.html) | Wed, 2 Feb, 23:59 EST |
-| HW 02 | [Airbnb Listings Edinburgh](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-02/hw-02-airbnb-edi.html) | Fri, 4 Feb, 23:59 EST |
-| Q 02  | [Data wrangling](https://laurie-the-student-baker.shinyapps.io/02-datawrangle/) | Sun, 6 Feb, 23:59 EST |
+| PD 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Wed, 6 May, 23:59 EST |
+| E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
+| E 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
+| R 01 | [Submit Weekly Reflections](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
 | *Due next week* | | |
-| Lab 03 | [Nobel laureates](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-03/lab-03-nobel-laureates.html) | Wed, 9 Feb, 23:59 EST |
-| HW 03 | [Road Traffic Accidents](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-03/hw-03-accidents.html) | Fri, 11 Feb, 23:59 EST |
-| Q 03  | [Data wrangling and visualization](https://laurie-the-student-baker.shinyapps.io/03-wrangleviz/)| Sun, 13 Feb, 23:59 EST |
 
-If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
+
+### Readings
+
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| :page_facing_up: | [Course syllabus](/#syllabus) | **Required** | 
+| :open_book: | [Planning for Project Design, The Turing Way](https://the-turing-way.netlify.app/project-design/pd-overview/pd-overview-planning.html) | **Required** |
+| :page_facing_up: | [Project Readings](/#projects) | **Required** |
+| :page_facing_up: | [rOpenSci's Reproducibility Guide](https://ropensci.github.io/reproducibility-guide/sections/introduction/) | Optional |
+
+### Interactive R tutorials
+
+The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.
+
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
+| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
+
 
 ### Readings
 

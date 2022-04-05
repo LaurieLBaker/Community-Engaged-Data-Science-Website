@@ -1,17 +1,17 @@
 ---
-title: 'Week 4 - Importing and recoding data'
+title: 'Week 4 - Wrapping Up'
 author: ''
 date: '2021-12-27'
 slug: []
 categories: []
 tags: []
-subtitle: 'Importing and recoding data :chart_with_downwards_trend:'
-summary: 'Importing data, data types and classes, recoding.'
+subtitle: 'Wrapping Up and Reporting:chart_with_downwards_trend:'
+summary: 'Wrapping up the project'
 authors: []
 lastmod: '2021-02-07T21:05:56-04:00'
 featured: yes
 image:
-  caption: 'Lobster pots. Photo by <a href="https://unsplash.com/@kdelpdp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristina Delp</a> on <a href="https://unsplash.com/s/photos/maine-lobster?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: 'Bringing it all together. Photo by <a href="https://unsplash.com/@kdelpdp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristina Delp</a> on <a href="https://unsplash.com/s/photos/maine-lobster?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   '
   focal_point: ''
   preview_only: no
@@ -19,65 +19,42 @@ projects: []
 ---
 
 
-### Tasks
+### Optional Morning Programming Tutorials
 
-- Watch the [videos](/post/04-week/#videos)
-- Complete the [readings](/post/04-week/#readings)
-- Complete the [assignments](/post/04-week/#assignments)
-
-### Videos
-
-You can access the course videos on YouTube. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM).
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
-| 01 | Data types | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/WsxLbtWbEfc) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d10-data-types/u2-d10-data-types.html) | 30:29 | 
-| 02 | Data classes | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/dozvSVQcqqg) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d11-data-classes/u2-d11-data-classes.html) | 19:28 | 
-| 03 | Importing data | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/tIMaRYiuEFA) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d12-data-import/u2-d12-data-import.html) | 32:08 | 
-| 04 | Recoding data | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/O8qxV3N4D5Q) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d13-data-recode/u2-d13-data-recode.html) | 20:22 | 
-
-### Class Activities
-
-| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
-|:---|:---|:---|
-| Projects | [Project Brainstorming](/#project) | Tue, 8 Feb |
-| Review | Types, Classes, Importing | Thu, 10 Feb |
+ | <div style="width:340px;text-align:left">Title</div> | <div style="width:100px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> | <div  style="width:120px;text-align:left">Location </div> |
+|:---|:--|:--|:--|
+| Introduction to Agile Project Management | Tue, 3 May | 9.00-10.30 am | DCS Lounge |
+| Working with Community Partners | Tue, 3 May | 10.30-11.45 am |  Harward Center |
+| Tour of RStudio and intro to tidy data and dplyr verbs | Wed, 4 May | 9.00-11.00 am | DCS Lounge |
+| Intro to ggplot2  | Thu, 5 May | 9-11 am |  DCS Lounge |
 
 ### Assignments
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Lab 03 | [Nobel laureates](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-03/lab-03-nobel-laureates.html) | Wed, 9 Feb, 23:59 EST |
-| HW 03 | [Road Traffic Accidents](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-03/hw-03-accidents.html) | Fri, 11 Feb, 23:59 EST |
-| Project | [Team contract](/#project) | Sat, 12 Feb, 23:59 EST |
-| Q 03  | [Data wrangling and visualization](https://laurie-the-student-baker.shinyapps.io/03-wrangleviz/)| Sun, 13 Feb, 23:59 EST |
+| PD 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Wed, 6 May, 23:59 EST |
+| E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
+| E 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
+| R 01 | [Submit Weekly Reflections](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
 | *Due next week* | | |
-| HW 04 | [Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html) | Fri, 18 Feb, 23:59 EST |
-| Project | [Proposal](/#project) | Sat, 19 Feb, 23:59 EST |
-| Q 04 | [Coding style](https://laurie-the-student-baker.shinyapps.io/04-coding/#section-questions)| Sun, 20 Feb, 23:59 EST |
 
-If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
 
 ### Readings
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [R4DS::Chp 11 - Data import](https://r4ds.had.co.nz/data-import.html) | **Required** |
-| :open_book: | [R4DS::Chp 15 - Factors](https://r4ds.had.co.nz/factors.html) | **Required** |
-| :open_book: | [R4DS::Chp 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-times.html) | **Required** |
-
-### Code-along
-
-The data come from [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-10/readme.md). TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday). 
-
-You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 02 - College tuition, diversity, and pay*.
-
+| :page_facing_up: | [Course syllabus](/#syllabus) | **Required** | 
+| :open_book: | [Planning for Project Design, The Turing Way](https://the-turing-way.netlify.app/project-design/pd-overview/pd-overview-planning.html) | **Required** |
+| :page_facing_up: | [Project Readings](/#projects) | **Required** |
+| :page_facing_up: | [rOpenSci's Reproducibility Guide](https://ropensci.github.io/reproducibility-guide/sections/introduction/) | Optional |
 
 ### Interactive R tutorials
 
-The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
+The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [What should I major in?](https://minecr.shinyapps.io/dsbox-03-collegemajors) | Related to HW 04 |
+| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
+| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
+

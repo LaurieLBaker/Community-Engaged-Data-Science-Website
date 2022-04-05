@@ -9,15 +9,18 @@ title = "Syllabus"
 
 ## Course Description
 
-Hello and welcome to *Community-engaged Data Science**. This course will introduce students to data analysis and visualization with R. This course is intended for students with a strong interest in applied problem-solving. Students will work in multi-disciplinary teams on a research problem identified by a community partner from business, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques. 
-This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. Students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.
+Hello and welcome to *Community-engaged Data Science**. This course is intended for students with a strong interest in applied problem-solving. Students will work in multi-disciplinary teams on a research problem identified by a community partner from the local community, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques. 
+
+This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. The goal of this course **is not** to "complete the project" but rather to explore and reflect on the problem-solving process, including the parts that are messy and don't go smoothly. Come prepared to engage with your teams and community partners and be ready to roll with the challenges and think creatively about the project.
+
+During the course, students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.
 Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving. 
 
 The course content is organized in three units:
  
-- **Unit 1 - What is the plan?:** This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, and explore approaches to solving the problem. 
-- **Unit 2 - Exploring data:** This unit focuses on exploring the problem through data wrangling and data visualization. In this unit, we focus on tidy data, data import, data cleaning, and data curation.
-- **Unit 3 - Project Delivery and Next Steps:** After completing the exploratory phase, students wrap up the project in a report and present next steps. 
+- **Unit 1 - What is the plan?:** This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, and brainstorm ideas and think about approaches to solving the problem. 
+- **Unit 2 - Exploring data:** This unit focuses on exploring the data and creating a first mock up of the project for partners.
+- **Unit 3 - Project Delivery and Next Steps:** After completing the exploratory phase, students wrap up the project in a report where they present their findings and next steps to partners. 
 
 ## DCS Values, Goals, and Practices
 
@@ -26,23 +29,28 @@ The primary purpose of Digital and Computational Studies is to bridge the libera
 ## Learning Objectives 
 This course is designed as a community learning journey. Together, we will:
 
-- Identify and plan our own personal development plans.
+- Identify areas for growth and plan our own personal development plans.
 - Play with computational ideas creatively, using a growth mindset which values revision and experimentation. 
-- Gain experience in data collection, wrangling, visualization, exploratory data analysis, predictive modeling and effective communication of results in partnership with community partners.
-- Engage and reflect on contemporary issues in environmental and social justice related to your digital world, community and positionality. Critically evaluate the origins of data and the limitations of analysis techniques.
+- Gain experience in data collection, wrangling, visualization, exploratory data analysis, predictive modeling and effective communication of results to community partners.
+- Engage and reflect on contemporary issues in environmental and social justice related to your digital world, community and positionality. 
+- Critically evaluate the origins of data and the limitations and constraints of analysis techniques.
 - Demonstrate community leadership skills as a collaborator that shares strengths, builds weaknesses, and contributes to a broader shared understanding. 
 - Build skills valued by employers including teamwork, reproducible analysis, effective communication, independent thinking, and problem solving. 
 
 It is also my hope that in this course you:
 
 - Develop an appreciation for reproducibility, transparency, accessibility and inclusivity in data collection, analysis, and communication.
-- Build knowledge and skills in data science skills to tackle questions that are important to you. 
+- Build knowledge and skills in data science skills to tackle questions that are important to you.
 
 ## Course Materials required: 
 
 ### Books:
 
-All books for this course are freely available online as e-books. We will be using two main texts:
+All books for this course are freely available online as e-books. 
+
+For project management and reproducibility you might find the following useful:
+
+For programming and statistics you might find the following useful
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin. 
 
@@ -98,11 +106,9 @@ If you anticipate or experience any barriers to learning in this course, please 
 The college prohibits discrimination on the basis of race, color, national or ethnic origin, religion, sex, sexual orientation, gender identity or gender expression, age, disability, genetic information or veteran status and other legally protected statuses in the recruitment and admission of its students, in the administration of its education policies and programs, or in the recruitment of its faculty and staff. Bates College adheres to all applicable state and federal equal opportunity laws and regulations. Violations of this policy can be reported to [Gwen Lexow](https://www.bates.edu/faculty-expertise/profile/gwen-l-lexow/), Director of Title IX and Civil Rights Compliance or through the Bates website: [www.bates.edu/sexual-respect/non-discrimination-policy/](www.bates.edu/sexual-respect/non-discrimination-policy/)
 
 
-### Late work, extensions, and special circumstances
+### Grading contract
 
-All work is due on the stated due date. Due dates are there to help guide your pace through the course and they also allow me (the course professor) to return marks and feedback to you in a timely manner. However, sometimes life gets in the way and you might not be able to turn in your work on time. Note, first of all, that the lowest score of labs and homework assignments is dropped. So if you miss one assignment, this can be your dropped score. Resubmission is built into each assignment. You will first receive feedback on each assignment before receiving a final grade. All resubmissions are due 7 days after feedback is received. It is your responsibility to keep track of this deadline. For instance, if a homework is due on 
-
-If you intend to submit work late for an assignment or project, you must **notify me** before the original deadline and as soon as the completed work is submitted on GitHub. Lab work cannot be submitted late, Note also that each of you have 3 late days you can put towards homework assignments during the semester without receiving a late penalty. 
+Note that I expect you to participate fully in this project and process. This class will be graded using a grading contract.
 
 
 ### Learning during a pandemic
