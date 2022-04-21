@@ -4,53 +4,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear in.
 
-title = "Project"
-subtitle = "Showcase your inner data scientist"
+title = "Projects"
+subtitle = "Working together and as part of a team"
 +++
 
 ## TL;DR
 
-Pick a dataset, any dataset...
-
-...and do something with it. That is your final project in a nutshell. More details below.
-
 The final project for this class will consist of analysis on a dataset of your own choosing. The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
-The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
-
-The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is required. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
-Here is an example of a past [project write up](https://dcs-210.github.io/project-lizakemuntopatrick/) and [presentation](https://dcs-210.github.io/project-lizakemuntopatrick/presentation/presentation.html#1) on **Lessons to be Learned from Super Bowl Advertisements**. 
-
-### Data
-
-In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 to 20 variables (exceptions can be made but you must speak with me first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
-
-If you are using a dataset that comes in a format that we haven't encountered in class, make sure that you are able to load it into R as this can be tricky depending on the source. If you are having trouble ask for help before it is too late.
-
-**Note on reusing datasets from class:** Do not reuse datasets used in examples, homework assignments, or labs in the class.
-
-Below are a list of data repositories that might be of interest to browse. You're not limited to these resources, and in fact you're encouraged to venture beyond them. But you might find something interesting there:
-
-- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
-- [NHS Scotland Open Data](https://www.opendata.nhs.scot/)
-- [Edinburgh Open Data](https://edinburghopendata.info/)
-- [Open access to Scotland's official statistics](https://statistics.gov.scot/home)
-- [Bikeshare data portal](https://www.bikeshare.com/data/)
-- [UK Gov Data](https://data.gov.uk/)
-- [Kaggle datasets](https://www.kaggle.com/datasets)
-- [OpenIntro datasets](http://openintrostat.github.io/openintro/)
-- [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Youth Risk Behavior Surveillance System (YRBSS)](https://chronicdata.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/q6p7-56au)
-- [PRISM Data Archive Project](https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html)
-- [Harvard Dataverse](https://dataverse.harvard.edu/)
-- [National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/web/pages/NACJD/index.html)
-- [TransPop](https://www.icpsr.umich.edu/web/ICPSR/studies/37938) first national probability sample of transgender individuals in the United States.
-- [Data is Plural](https://www.data-is-plural.com/archive/)
-- [American Community Survey](https://data.census.gov/cedsci/) some Maine data here.
-- [IPUMS USA](https://usa.ipums.org/usa/) census microdata
-- [The Lawrence Papers](https://scarab.bates.edu/lawrance/) from Bates and [metadata](https://bates-archives.libraryhost.com/repositories/2/resources/185)
-- [Health-related datasets](https://libguides.bates.edu/health-economics/resources) compiled by Bates library
-- If you know of others, let me know, and we'll add here...
 
 ### Deliverables
 

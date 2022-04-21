@@ -7,7 +7,7 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/avatar.jpg</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
@@ -27,7 +27,9 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions. Gain insight from data, reproducibly (with literate programming and version control) and collaboratively, using modern programming tools and techniques. The course will focus on the R statistical computing language and assumes no statistical or computing background.&lt;/p&gt;
+      <description>&lt;p&gt;Students will work in multi-disciplinary teams on a research problem identified by a community partner from business, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques.&lt;/p&gt;
+&lt;p&gt;This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. Students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.&lt;/p&gt;
+&lt;p&gt;Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving.&lt;/p&gt;
 </description>
     </item>
     

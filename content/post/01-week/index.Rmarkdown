@@ -5,8 +5,8 @@ date: '2021-05-01'
 slug: []
 categories: []
 tags: []
-subtitle: 'Get acquainted with the projects, the technology, the workflow, and the skills you want to acquire during the course :toolbox:'
-summary: 'Get acquainted with the projects, the technology, the workflow, and the skills you want to acquire during the course.'
+subtitle: 'Get acquainted with the projects, the technology, the workflow, and create a personal development plan for the skills you want to acquire during the course :toolbox:'
+summary: 'Get acquainted with the projects, the technology, the workflow, and create a personal development plan for the skills you want to acquire during the course.'
 authors: []
 lastmod: '2021-01-17T11:19:34-04:00'
 featured: yes
@@ -20,28 +20,33 @@ projects: []
 
 #### Tasks
 
-- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud
+- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud.
 - Complete the [Getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
-- Add a community rule to the google doc on [Lyceum](https://lyceum.bates.edu/login/index.php)
 - Sign up for morning tutorials. 
-- Submit weekly reflections.
+- Submit your personal development plan (PDP) and sign up for a meeting slot. 
 
-### Class Activities
+### Joint Class Activities
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Intro | Welcome to Community-Engaged Data Science and Project Presentations  | Mon, 2 May |
-|  | Project Brainstorming | Tue, 3 May |
-|  | Meeting with project partners  | Thu, 4 May |
-|  | Meeting with project partners  | Thu, 4 May |
+|  | Project Questions and Brainstorming | Tue, 3 May |
+|  | Meeting with project partners and project work  | Wed, 4 May |
+|  | Meeting with project partners and project work work | Thu, 5 May |
 
-### Optional Morning Programming Tutorials
+### Project Specific Activities
+
+| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
+|:---|:---|:---|
+|  | NECSA Sampling Field Trip | Fri, 6 May | 8.00-11.00
+
+### Morning Tutorials (Sign up as part of PDP)
 
  | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> |
 |:---|:---|:---|:----|
-| Introduction to Agile Project Management | Tue, 3 May | 9.00-10.30 am | DCS Lounge |
-| Working with Community Partners | Tue, 3 May | 10.30-11.45 am |  Harward Center |
-| Tour of RStudio and intro to tidy data and dplyr verbs | Wed, 4 May | 9.00-11.00 am | DCS Lounge |
+| Introduction to the community | Tue, 3 May | 10.00-11.00 am |  Harward Center |
+| Personal Development Plan Check-ins | Wed, 4 May | 9.00-10.30 am, 1-2pm | DCS Lounge |
+| Tour of RStudio and Intro to tidy data and dplyr verbs | Thu, 5 May | 9.00-11.00 am | DCS Lounge |
 | Intro to ggplot2  | Thu, 5 May | 9-11 am |  DCS Lounge |
 
 ### Assignments
@@ -49,12 +54,12 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| PD 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Wed, 6 May, 23:59 EST |
+| PDP 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Wed, 6 May, 23:59 EST |
 | E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
 | E 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
-| R 01 | [Submit Weekly Reflections](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
 | *Due next week* | | |
-
+| C 01 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 12 May, 23:59 EST |
+| PDP 02 | [Personal Development Plan Progress](https://lyceum.bates.edu/login/index.php) | Fri, 13 May, 23:59 EST |
 
 ### Readings
 
