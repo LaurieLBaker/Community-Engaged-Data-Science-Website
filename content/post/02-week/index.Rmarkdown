@@ -11,7 +11,7 @@ authors: []
 lastmod: '2021-01-24T11:56:23-04:00'
 featured: yes
 image:
-  caption: 'Berries. Photo by <a href="https://unsplash.com/@gndclouds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">William Felker</a> on <a href="https://unsplash.com/s/photos/blueberries-raspberries?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: 'Fig. 99 The Turing Way community illustrated as a garden. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807. Weblink: https://the-turing-way.netlify.app/_images/community.jpg
   '
   focal_point: ''
   preview_only: no

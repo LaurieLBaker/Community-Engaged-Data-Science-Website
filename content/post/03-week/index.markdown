@@ -6,12 +6,12 @@ slug: []
 categories: []
 tags: []
 subtitle: 'Data wrangling, joining, and tidying :wrench:'
-summary: 'Data wrangling, joining, and tidying'
+summary: 'Knowledge Exchange and Collaboration'
 authors: []
 lastmod: '2021-01-31T21:32:46-04:00'
 featured: yes
 image:
-  caption: 'Unsorted seashells. Photo by <a href="https://unsplash.com/@jeremy0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Zero</a> on <a href="https://unsplash.com/s/photos/seashells?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: 'Fig. 79 There is more to collaboration than we see. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807. Weblink: https://the-turing-way.netlify.app/_images/collaboration.jpg
   '
   focal_point: ''
   preview_only: no

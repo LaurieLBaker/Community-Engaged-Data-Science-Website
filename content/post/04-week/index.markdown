@@ -5,13 +5,13 @@ date: '2021-12-27'
 slug: []
 categories: []
 tags: []
-subtitle: 'Wrapping Up and Reporting:chart_with_downwards_trend:'
-summary: 'Wrapping up the project'
+subtitle: 'Documenting and Passing On:chart_with_downwards_trend:'
+summary: 'This week is about final communication, documenting, and passing it on in a way that the project can be continued'
 authors: []
 lastmod: '2021-02-07T21:05:56-04:00'
 featured: yes
 image:
-  caption: 'Bringing it all together. Photo by <a href="https://unsplash.com/@kdelpdp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kristina Delp</a> on <a href="https://unsplash.com/s/photos/maine-lobster?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a
+  caption: 'Fig. 3 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807. Weblink: https://the-turing-way.netlify.app/_images/reproducibility.jpg
   '
   focal_point: ''
   preview_only: no
@@ -36,8 +36,7 @@ projects: []
 | PD 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Wed, 6 May, 23:59 EST |
 | E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
 | E 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
-| R 01 | [Submit Weekly Reflections](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
-| *Due next week* | | |
+| R 03 | [Final Reflection](https://lyceum.bates.edu/login/index.php) | Fri, 27 May, 23:59 EST |
 
 
 ### Readings

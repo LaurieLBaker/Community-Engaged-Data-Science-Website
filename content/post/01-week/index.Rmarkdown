@@ -1,5 +1,5 @@
 ---
-title: 'Week 1 Project Development'
+title: 'Week 1 Project Design'
 author: ''
 date: '2021-05-01'
 slug: []
