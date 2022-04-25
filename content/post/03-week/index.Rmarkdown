@@ -1,12 +1,12 @@
 ---
-title: 'Week 3 - Wrangling and tidying data'
+title: 'Week 3 - Feedback and Iteration'
 author: ''
 date: '2021-12-26'
 slug: []
 categories: []
 tags: []
-subtitle: 'Data wrangling, joining, and tidying :wrench:'
-summary: 'Knowledge Exchange and Collaboration'
+subtitle: 'Feedback and knowledge exchange :wrench:'
+summary: 'Getting feedback early and often to create a shared vision and meet partner needs'
 authors: []
 lastmod: '2021-01-31T21:32:46-04:00'
 featured: yes

@@ -5,8 +5,8 @@ date: '2021-12-27'
 slug: []
 categories: []
 tags: []
-subtitle: 'Documenting and Passing On:chart_with_downwards_trend:'
-summary: 'This week is about final communication, documenting, and passing it on in a way that the project can be continued'
+subtitle: 'Documenting, knowledge exchange, and future proofing:chart_with_downwards_trend:'
+summary: 'This week is about final communication, documenting, and future proofing our analysis so that it can be carried on and continued in the future'
 authors: []
 lastmod: '2021-02-07T21:05:56-04:00'
 featured: yes
