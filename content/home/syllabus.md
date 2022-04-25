@@ -18,18 +18,19 @@ Students will develop their mathematical and programming skills as well as skill
 
 The course content is organized in three units:
  
-- **Unit 1 - What is the plan?:** This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, and brainstorm ideas and think about approaches to solving the problem. 
-- **Unit 2 - Exploring data:** This unit focuses on exploring the data and creating a first mock up of the project for partners.
-- **Unit 3 - Project Delivery and Next Steps:** After completing the exploratory phase, students wrap up the project in a report where they present their findings and next steps to partners. 
+- **Week 1 - Project Planning and Scoping:** This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, brainstorm ideas and approaches to solving the problem, and plan the project tasks. 
+- **Week 2 and 3 - Exploring and analyzing the data:** This unit focuses on exploring the data and creating a first mock up of the project for partners.
+- **Week 4 - Final Project Presentations and Handover:** After completing the exploratory phase, students wrap up the project in a report where they present their findings and next steps to partners. 
 
 ## Learning Objectives 
+
 This course is designed as a community learning journey. Together, we will:
 
 - Use research skills to integrate and apply multiple forms of knowledge to an issue of interest to a community partner.
 - Demonstrate community leadership skills as a collaborator that shares strengths, builds weaknesses, and contributes to a broader shared understanding. 
 - Gain experience in data collection, wrangling, visualization, exploratory data analysis, predictive modeling and effective oral and written communication of results to audiences beyond Bates.
 - Build skills valued by employers including teamwork, reproducible analysis, effective communication, independent thinking, and problem solving. 
-- Demonstrate self-awareness and personal growth including identifying areas for personal growth across technical and collaboration skills and implement a personal development plan to reach those goals.
+- Identify areas for personal growth and develop and implement a personal development plan to work towards individual and collaborative goals related to the project.
 
 
 It is also my hope that in this course you:
@@ -57,19 +58,25 @@ How you choose to engage in this course—both in and out of class—is central 
 
 Five groups of 4 students each will undertake projects with our community partners. Each group will determine how to structure their project; what forms of information are necessary and how to gather them; how to allocate and organize tasks; and how to produce the “deliverables” agreed upon with the community partner.
 
-* **Project proposal:** In the first week of the course, each project group develops a written proposal in consultation with their community partner, the instructors, and their peers. The proposal should include a clear statement of particular questions you will address, how you will address them, in what order, and how you will allocate the work - both temporally and among yourselves - to complete the project. The reader of the proposal should understand why you are doing this project, what methods and approaches you will use to accomplish the project goals, and what materials, people, and organizations may be of assistance as you work on the project. The proposal should indicate who the audience for your final presentation will be as well as any additional potential efforts to disseminate the outcomes of your project. Ultimately, the reader should be convinced that you can professionally complete the work you outline in the time-frame indicated. I will give you lots of feedback on your proposal to carry forward into your final report. 
+* **Project plan:** In the first week of the course, each project group develops a written plan in consultation with their community partner, the instructors, and their peers. The plan should include a clear statement of particular questions you will address, how you will address them, and project milestones you will work towards. As part of your consultation with project partners, you will also develop a kanban board for the project that breaks the project down into specific tasks that will be added to throughout the project. Kanban boards are a common tool used by data science and software development teams to manage projects. You will use the kanban board to brainstorm, plan and allocate work - both temporally and among yourselves - to complete the project. 
 
-* **Mid-week presentation and feedback** Each group will give a presentation (15 minutes MAX) that updates the whole class on your progress to date, including key findings and accomplishments, and any roadblocks or challenges. There will then be a 10-minute period for the class to provide feedback on and to discuss the project. 
+The reader of the project plan should understand why you are doing this project, what methods and approaches you will use to accomplish the project goals, and what materials, people, and organizations may be of assistance as you work on the project. The plan should indicate what the final product is for the partner, key milestones, and who the users for your final product will be as well as any additional potential efforts to disseminate the outcomes of your project. Ultimately, the reader should be convinced that you can professionally complete the work you outline in the time-frame indicated. I will give you lots of feedback on your plan and kanban board to help guide the project and give you aspects that will be reusable in your final report. 
 
-- Prior to the presentation, each group will meet with me to discuss the format of their presentation. Following the presentation, groups will again meet with me to receive feedback on the strengths and weaknesses of the presentation.
+* **Partner Questions and Notes** There will be an opportunity to meet and check in with your partners each week. Ahead of the meetings you will brainstorm a list of questions for the project partners and take notes on the answers to the questions as well as any actions generated for the meetings. As part of the project, I will check off and give feedback on your notes. 
 
-* **Final Presentation:** Each group must make a final presentation of their project to their community partner during the last week of class. Groups will negotiate with partners regarding appropriate venue and format, and the timing should be both appropriate for the audience and scheduled so that at least one instructor can attend. Each group will give a ‘dry run’ of their final presentation to the class, after which I will give you substantial feedback ahead of your final presentation. Generous and honest feedback on your peers’ presentations is an essential and expected component of the course. 
+* **Mid-project presentation and feedback** Each group will give a presentation (15 minutes MAX) to update the project partner on your progress to date, including key findings and accomplishments, and any roadblocks or challenges you encounter along the way. This is an opportunity to meet with project partners and get feedback and guidance to inform the final project. 
 
-* **Final Written Report:** Each group submits a final written report to both the community partner and the instructors. This is a primary outcome of the course and should represent top-level writing and professional standards of presentation. The format and structure of reports may vary, based on the nature of your particular project. In addition to the final group report, each individual student writes a final self- and peer-evaluation. Both components – the group report and the evaluation – will be considered in grading the final written report. The group report will be due in hard copy and electronically to the instructors. Each group should give their community partners electronic copies of the final report and all supporting documents, including references. 
+- During the presentation, groups will take a note of what to update on the project and use this to inform/update the product backlog. 
 
-*Note:* Because the final reports from this class are put onto a website that can be viewed by the public, you must pay particular attention to copyright issues in preparing your report. Any images you incorporate into the final report must be available in the public domain. Care must also be exercised in the usage and citing of textual material. If you have questions about whether inclusion of something in your report would infringe on copyright laws, you can refer to the following site: http://www.bates.edu/ils/policies/access-use/copyright/. You should also speak with Chris Schiff, Music and Arts Librarian (cschiff@bates.edu), if you have any concerns about intellectual property. 
+* **Final presentation and feedback:** Each group must make a final presentation of their project to their community partner during the last week of class. Groups will negotiate with partners regarding appropriate venue and format, and the timing should be both appropriate for the audience and scheduled so that at least one instructor can attend. Each group will give a ‘dry run’ of their final presentation to the class, after which I will give you substantial feedback ahead of your final presentation. Generous and honest feedback on your peers’ presentations is an essential and expected component of the course. 
 
-Key Course Policies:
+* **Final Written Report:** Each group submits a final written report, including any final products and documented code, to both the community partner and the instructors. This is a primary outcome of the course and should represent top-level writing and professional standards of presentation. The format and structure of reports and the final product may vary, based on the nature of your particular project. All code must be well documented and organized in a way that the project partner can continue to build on the analysis/visualization. In addition to the final group report and final product, each individual student writes a final self- and peer-evaluation. All components – the group report, final products, and the evaluation – will be considered in grading the final written report. The group report will be due in hard copy and electronically to the instructors. Each group should give their community partners electronic copies of the final report and all supporting documents, including code and references. 
+
+*Note:* Because the final reports from this class are put onto a website that can be viewed by the public, you must pay particular attention to copyright issues in preparing your report. Any images you incorporate into the final report must be available in the public domain. Care must also be exercised in the usage and citing of textual material. If you have questions about whether inclusion of something in your report would infringe on copyright laws, you can refer to the following site: http://www.bates.edu/ils/policies/access-use/copyright/. You should also speak with Chris Schiff, Music and Arts Librarian (cschiff@bates.edu), if you have any concerns about intellectual property.
+
+* **Personal Development Reflections**: As part of this project you will be submitting a plan for personal development. Throughout the course there will be short reflections to reflect on progress towards these goals.
+
+## Key Course Policies:
 
 ### Communication 
 
@@ -82,30 +89,20 @@ Working collaborative requires cultivating mutual respect and engaging in clear,
 All books for this course are freely available online as e-books. 
 
 For project management and reproducibility you might find the following useful:
+- 
 
-For programming and statistics you might find the following useful
+For programming and statistics you might find the following useful:
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
-- [Happy Git with R]() by Jenny Bryan
-- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin. 
+- [Happy Git with R](https://happygitwithr.com) by Jenny Bryan
+- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin.
+- [Python for Data Science Resource Board]()
+- [R for Data Science Resource Board]()
 
 ### Technology:
-- Bring a laptop to every class, we will be programming most days! You can choose whatever programming language you feel most comfortable using, however some project partners may request a particular language based on the analysis that they wish to take forward. Resources that will be made available include RStudioCloud, you will get an invitation to create an account. If you have any difficulties with accessing a computer, let me know and we can arrange a chrome book from the library. 
+
+- Bring a laptop to every class, we will be programming most days! You can choose whatever programming language you feel most comfortable using, however some project partners may request a particular language based on the tool that they are most comfortable using. Resources that will be made available include RStudioCloud, you will get an invitation to create an account. If you have any difficulties with accessing a computer, let me know and we can arrange a chrome book from the library. 
 
 ## Course components
-
-### Weekly structure
-
-This course is about doing. We will meet in class on . Through the course you will also be working towards your personal goals. The typical weekly class schedule will be:
-
-| Day| Activity|
-| --- | --- |
-| Monday | Sprint Planning|
-| Tuesday | Project Work|
-| Wednesday | Project Work|
-| Thursday | Project Presentation |
-
-
-Outside of class you can expect to spend 2-3 hours on your personal development plan which may include individual research, reading, and or attending tutorials depending on your goals. 
 
 ### Sharing / reusing code
 
