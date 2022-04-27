@@ -18,15 +18,26 @@ image:
 projects: []
 ---
 
+#### Tasks
 
-### Optional Morning Programming Tutorials
+- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud.
+- Complete the [Getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
+- Sign up for morning tutorials. 
+- Submit your personal development plan (PDP) and sign up for a meeting slot. 
+
+### Joint Class Activities
+
+| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
+|:---|:---|:---|
+| Intro | Project Work  | Mon, 23 May |
+| Workshop | Project Work | Tue, 24 May |
+| Workshop | Final Presentations  | Wed, 25 May |
+### Morning Tutorials (PDP)
 
  | <div style="width:340px;text-align:left">Title</div> | <div style="width:100px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> | <div  style="width:120px;text-align:left">Location </div> |
 |:---|:--|:--|:--|
-| Introduction to Agile Project Management | Tue, 3 May | 9.00-10.30 am | DCS Lounge |
-| Working with Community Partners | Tue, 3 May | 10.30-11.45 am |  Harward Center |
-| Tour of RStudio and intro to tidy data and dplyr verbs | Wed, 4 May | 9.00-11.00 am | DCS Lounge |
-| Intro to ggplot2  | Thu, 5 May | 9-11 am |  DCS Lounge |
+| Data Science Careers (CV workshop) | Tue, 3 May | 9.00-10.30 am | DCS Lounge |
+| Intro to ggplot2  | Wed, 5 May | 9-11 am |  DCS Lounge |
 
 ### Assignments
 
@@ -48,12 +59,4 @@ projects: []
 | :page_facing_up: | [Project Readings](/#projects) | **Required** |
 | :page_facing_up: | [rOpenSci's Reproducibility Guide](https://ropensci.github.io/reproducibility-guide/sections/introduction/) | Optional |
 
-### Interactive R tutorials
-
-The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
-| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
-| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
-
+### Personal Development Plan

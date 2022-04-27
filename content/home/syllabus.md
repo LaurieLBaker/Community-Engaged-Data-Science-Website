@@ -9,11 +9,12 @@ title = "Syllabus"
 
 ## Course Description
 
-Hello and welcome to *Community-engaged Data Science**. This course is intended for students with a strong interest in applied problem-solving. Students will work in multi-disciplinary teams on a research problem identified by a community partner from the local community, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques. 
+Hello and welcome to *Community-engaged Data Science*. This course is intended for students with a strong interest in applied problem-solving. Students will work in multi-disciplinary teams on a research problem identified by a community partner from the local community, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques. 
 
 This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. The goal of this course **is not** to "complete the project" but rather to explore and reflect on the problem-solving process, including the parts that are messy and don't go smoothly. Come prepared to engage with your teams and community partners and be ready to roll with the challenges and think creatively about the project.
 
 During the course, students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.
+
 Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving. 
 
 The course content is organized in three units:
@@ -81,26 +82,6 @@ The reader of the project plan should understand why you are doing this project,
 ### Communication 
 
 Working collaborative requires cultivating mutual respect and engaging in clear, honest, and thoughtful communication. My aim in this course is to create a collective learning experience animated by these values. I expect the kinds of practices in the classroom that would be expected in any professional situation where a large team and a number of sub-teams are working together with a shared missing and smaller team assignments that serve that larger mission. If you are struggling and unable to meet your commitments to the group, your partner, or the whole class — or if you have feedback for us that might help to improve your experience in the class and in your group work — please communicate these concerns to me directly in a timely manner. It is my intention to ensure that all students have a successful short-term experience. 
-
-## Course Materials required: 
-
-### Books:
-
-All books for this course are freely available online as e-books. 
-
-For project management and reproducibility you might find the following useful:
-- 
-
-For programming and statistics you might find the following useful:
-- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
-- [Happy Git with R](https://happygitwithr.com) by Jenny Bryan
-- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin.
-- [Python for Data Science Resource Board]()
-- [R for Data Science Resource Board]()
-
-### Technology:
-
-- Bring a laptop to every class, we will be programming most days! You can choose whatever programming language you feel most comfortable using, however some project partners may request a particular language based on the tool that they are most comfortable using. Resources that will be made available include RStudioCloud, you will get an invitation to create an account. If you have any difficulties with accessing a computer, let me know and we can arrange a chrome book from the library. 
 
 ## Course components
 
