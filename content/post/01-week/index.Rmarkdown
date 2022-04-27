@@ -40,13 +40,13 @@ projects: []
 |:---|:---|:---|
 | Field Trip | NECSA/Manoment Project: Sampling Field Trip | Fri, 6 May | 8.00-11.00
 
-### Morning Tutorials (Sign up as part of PDP)
+### Morning Tutorials (Optional sign up as part of PDP)
 
  | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> |
 |:---|:---|:---|:----|
 | Introduction to the community | Tue, 3 May | 10.00-11.00 am |  Harward Center |
 | Tour of RStudio and Intro to tidy data and dplyr verbs | Wed, 4 May | 9.00-10.30 am | DCS Lounge |
-| Personal Development Plan Check-ins | Thu, 5 May | 9.00-11.00 am | DCS Lounge |
+| Personal Development Plan Check-ins | Thu, 5 May | 1.00-2.00 pm | DCS Lounge |
 
 
 ### Assignments
@@ -71,13 +71,4 @@ projects: []
 | :page_facing_up: | [A beginner's guide to agile and scrum](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management
 ) | **Required** |
 | :page_facing_up: | Project Readings: Check your project page | **Required** |
-
-### Interactive R tutorials
-
-The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
-| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
-
 

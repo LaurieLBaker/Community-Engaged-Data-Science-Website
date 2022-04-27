@@ -18,16 +18,27 @@ image:
 projects: []
 ---
 
+#### Tasks
 
+- Check your Personal PDP: what are you working on this week?
+- Check your project kanban: what are you working on this week?
 
-### Morning Tutorials (Sign up as part of PDP)
+### Joint Class Activities
+
+| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
+|:---|:---|:---|
+| Workshop | Sprint Planning and Retrospective | Mon, 9 May |
+| Workshop | Project Questions and Brainstorming | Tue, 10 May |
+| Workshop | Meeting with project partners and project work  | Wed, 11 May |
+| Workshop | Project Presentations | Thu, 12 May |
+
+### Morning Tutorials (Optional: sign up as part of PDP)
 
  | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> |
 |:---|:---|:---|:----|
 | Intro to Git and Github | Mon, 9 May | 11.00-12.00 am | DCS Lounge |
 | Intro to ggplot2 | Tue, 10 May | 9.30-11.30 am | DCS Lounge |
-| Independent Tutorial 1 | Wed, 11 May | 10.00-12.00 pm |  DCS Lounge |
-| Reproducible Reporting Using RMarkdown | Thu, 12 May | 9.00-12.00 am |  DCS Lounge |
+| Independent Tutorial 1 | Thu, 12 May | 10.00-12.00 pm |  DCS Lounge |
 
 ### Assignments
 
@@ -35,7 +46,7 @@ projects: []
 |:---|:---|:---|
 | *Due this week* | | |
 | E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Tue,  May 12, 23:59 EST |
-| C 01 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 14 May, 23:59 EST |
+| C 01 | [Project Presentations (in class)](https://lyceum.bates.edu/login/index.php) | Thu, 14 May, 23:59 EST |
 | PDP 02 | [Personal Development Plan Progress Reflection](https://lyceum.bates.edu/login/index.php) | Fri, 15 May, 23:59 EST |
 
 ### Readings
@@ -50,4 +61,4 @@ projects: []
 
 ### Personal Development Plan
 
-Check your plan. What are you working on this week?
+Check your PDP plan. What are you working on this week?

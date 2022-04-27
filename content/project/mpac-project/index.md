@@ -15,7 +15,7 @@ tags:
 
 title: Understanding Attitudes Toward Prison Reform and Parole in Maine
 ---
-Maine was the first state to abolish parole in 1976 and remains one of 16 states that does not offer parole. A reform bill to reinstate was recently passed in the house and the senate in Maine (see the full article in [The Maine Public](https://www.mainepublic.org/courts-and-crime/2021-12-14/a-bill-to-restore-parole-in-maine-passed-in-the-house-and-senate-its-been-sitting-on-janet-mills-desk-for-months). The state legislature announced in April the creation of a 13-member commission to study restoring parole, with a December 1 deadline to make its recommendations ([WMTW](https://www.wmtw.com/article/parole-in-maine/39765482#))
+Maine was the first state to abolish parole in 1976 and remains one of 16 states that does not offer parole. A reform bill to reinstate parole was recently passed in the house and the senate in Maine (see the full article in [The Maine Public](https://www.mainepublic.org/courts-and-crime/2021-12-14/a-bill-to-restore-parole-in-maine-passed-in-the-house-and-senate-its-been-sitting-on-janet-mills-desk-for-months). The state legislature announced in April the creation of a 13-member commission to study restoring parole, with a December 1 deadline to make its recommendations ([WMTW](https://www.wmtw.com/article/parole-in-maine/39765482#))
 
 This project comes at a critical decision point for Maine. This work will build on work conducted in Professor Amy Douglass' class (Psychology 218) in partnership with the Maine Prisoner Advocacy Coalition (MPAC) which researched perceptions of parole for violent and non-violent crimes and looks at the effect of different justifications on individual's perceptions.
 
