@@ -14,10 +14,11 @@ summary:
 tags:
 - Health
 - Smoking
+- Tobacco use
 - Immigration
-- Survey
+- Survey Data
 title: Understanding tobacco-use and smoke exposure among immigrants in Maine
-publishDate: "2020-08-15T00:00:00Z"
+publishDate: "2022-04-25T00:00:00Z"
 url_code: ""
 url_slides: ""
 url_video: ""
@@ -50,5 +51,8 @@ In the project, students will analyze survey data from more than 150 respondents
 
 ### Data
 
-### Resources:
+This section will be updated with information about how to access the data.
 
+### Resources
+
+This section will be updated with readings and resources. 
