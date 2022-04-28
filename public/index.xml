@@ -28,26 +28,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;This website only contains publicly available content from the DCMA S34 Community-Engaged Data Science.
-Any materials available to only officially enrolled students are hosted on Lyceum, the learning management system used at Bates College.
-Student work is completed and submitted as private GitHub repositories which are visible only to officially enrolled students and course organizer and tutors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;All materials on this website are released under the Creative Commons Attribution-ShareAlike 4.0 International license.
-For more information on the license and terms of (re)use, see &lt;a href=&#34;https://github.com/ids-s1-20/website/blob/master/LICENSE.md&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

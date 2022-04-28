@@ -2,7 +2,7 @@
 # Contact widget.
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Help"
 subtitle = ""

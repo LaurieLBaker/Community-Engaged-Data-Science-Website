@@ -7,27 +7,27 @@
   name = "Timetable"
   url = "#timetable"
   weight = 20
-  
-[[main]]
-  name = "Projects"
-  url = "#project"
-  weight = 45
-
 
 [[main]]
   name = "Schedule"
   url = "#schedule"
-  weight = 40
+  weight = 42
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 52
+
 
 [[main]]
   name = "Syllabus"
   url = "#syllabus"
-  weight = 50
+  weight = 62
 
 [[main]]
   name = "Help"
   url = "#help"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Resources"
