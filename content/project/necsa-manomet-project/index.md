@@ -23,9 +23,9 @@ The aims of this community project are several-fold:
 
 1. Develop a protocol and data pipeline for carrying out quality assurance of the data, including developing a data workflow for future NeCSA data collection efforts and analysis. 
 
-2. Identify ways to improve the data collection process including developing standards and methodologies for data recording. 
+2. Identify ways to improve NeCSA's data collection process including developing standards and methodologies for data recording. 
 
-3. Create and design meaningful ways to visualize, explore, and present trends in the data (water temperature data, biological community data – species occurrence, species counts, biodiversity indices, and more) to build understanding of climate changes and its impact on intertidal communities across the Gulf of Maine. 
+3. Create and design meaningful ways to visualize, explore, and present trends in the data (water temperature data, biological community data – species occurrence, species counts, biodiversity indices, and more) collected by NeCSA and Manomet to build a greater understanding of the Gulf of Maine's intertidal communities and how they're changing. 
 
 
 Specific milestones for the short-term for each of these goals include:
@@ -57,7 +57,24 @@ Specific milestones for the short-term for each of these goals include:
  
 Student efforts will be continued this summer by an Environmental Data Initiative (EDI) Fellow, who will use the pipeline developed to collate, clean, and analyze all five years of data from the 10 member stations.
 
+### What skills you can expect to learn:
+
+- Importing, cleaning and preparing data
+- Design tests for checking data quality
+- Data Visualization
+- Automated report writing with Rmarkdown
+- Statistical analysis techniques for working with biological data
+- Science communication
+- Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing environmental data from start to finish. 
+
 ### Resources
 
+**Manomet**
+
+- [Impacts of Green Crabs on Softshell Clams by the Downeast Institute](https://downeastinstitute.org/uncategorized/impacts-of-green-crabs-on-soft-shell-clams/)
+- [Article: Life History and Population Dynamics of Green Crabs (Carcinus maenas)](crab_life_history.pdf)
+- [Manomet crab sampling protocol: Assessing Intertidal Populations of the Invasive European Green Crab](manomet_green_crab_protocol.pdf)
+
+**NeCSA**
 
 ### Data

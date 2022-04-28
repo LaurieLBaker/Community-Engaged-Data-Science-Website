@@ -16,13 +16,32 @@ tags:
 - Smoking
 - Immigration
 - Survey
-title: Tobacco-use among immigrants in Maine
+title: Understanding tobacco-use and smoke exposure among immigrants in Maine
 publishDate: "2020-08-15T00:00:00Z"
 url_code: ""
 url_slides: ""
 url_video: ""
 ---
 
-Understanding tobacco-use among recent immigrants and refugees in Maine.
+[AK Health and Social Services](https://akhss.org) is a community based nonprofit organization that provides  services to immigrants, refugees, asylum seekers and BIPOC communities in culturally and linguistically appropriate ways. Currently they have eight active programs/projects that provide  essential services to immigrant’s refugees asylum seekers, and BIPOC communities including Workforce development, Covid-19 Social support, Vaccination Support, Public Health  Education and Outreach, Resettlement and Refugees Services, After school programs, small  business support, Food support and security, Community and Family support services and  General social services. 
 
-This project is in partnership with [Ak Health and Social Services](https://akhss.org), a Lewiston-based nonprofit that connects recent immigrants and refugees with social services such as COVID-19 testing, vaccinations, counseling services, emotional support, need assessments and workforce development. 
+In partnership with the MaineHealth Center for Tobacco Independence (CTI), AK Health and Social Services are reviewing the cultural context, societal structures and experiences with acculturation that inform/predict exposure and current/future use of tobacco by Maine’s immigrant and refugee individuals, families and communities. For the purposes of the study, the term “immigrants” is inclusive of individuals, families and communities that are/or identify as immigrants, refugees, asylum seekers, undocumented people, and their children/family members from diverse countries, all of whom are living throughout Maine. 
+
+The goal of this community project is to analyze responses from a survey assessing tobacco use and exposure to second hand smoke amongst immigrant communities in Maine. The survey asks participants to reflect on the usage of tobacco before and after coming to the US. This survey is part of a broader project which looks to study questions including but not limited to: 
+∙ How does acculturation affect patterns of tobacco use and exposure among immigrants in Maine?  
+∙ How does gender and other factors impact tobacco use among members of certain immigrants  (country of origin, religion, shared culture, etc.)?  
+∙ What protective factors and risk factors promote the development of culturally appropriate  interventions to prevent and control tobacco use?  
+∙ And to what extent are culturally specific tobacco control programs necessary to curb or prevent  initiation of tobacco use among racial/ethnic populations? 
+
+The survey had more than 150 respondents and consisted of 7 questions for non-tobacco users and 20 questions for tobacco users. The aim of the project is to visualize and statistical compare the results of the survey to look at:
+- How common is tobacco use among respondent? How does this vary by gender and geographic origin?
+- How did tobacco use change before and after respondent's arrival in the U.S.?
+- Did a respondent's tobacco use change or influence their personal or religious views?
+
+### What skills you can expect to learn:
+
+- Importing, cleaning and working with survey data, including free text.
+- Data Visualization and Communication of Public Health information
+- Report writing using Rmarkdown
+- Statistical analysis techniques applied to health data
+- Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing survey data from start to finish. 
