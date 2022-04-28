@@ -17,6 +17,8 @@ title: Developing a data pipeline for monitoring temperature and intertidal biod
 
 Northeastern Coastal Station Alliance (NeCSA) is a collaboration of coastal field stations in the Gulf of Maine working together to understand climate change impacts in this rapidly changing system. With the help of volunteers, member field stations have been working to gathering temperature and intertidal community data at different sites along the Gulf of Maine since 2016, to establish valuable baseline data on changes in the Gulf of Maine. 
 
+Manomet is a non-profit organization that uses science and collaboration to improve the health of flyways, coastal ecosystems, and working lands and seas. The Fisheries Division works to sustain New England’s fishing heritage in a changing Gulf of Maine by restoring fisheries and diversifying opportunities in fishing and aquaculture.
+
 The aims of this community project are several-fold:
 
 1. Develop a protocol and data pipeline for carrying out quality assurance of the data, including developing a data workflow for future NeCSA data collection efforts and analysis. 
