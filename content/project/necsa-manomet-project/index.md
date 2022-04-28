@@ -33,10 +33,11 @@ Specific milestones for the short-term for each of these goals include:
         - Pre-process the water temperature data to remove inaccurate temperature readings resulting from low tides.
         - Create automated checks to flag unusual data entries.
 2. Identify ways to improve the data collection process based on:
-   - Issues that arise in the data processing
+   - Issues that arise in the data processing.
    - Design of data collection sheets. 
-   - Record questions and a codebook for the data. 
-   - Create a sketch of all the steps of the process including quality checks that should occur at each stage. 
+   - Record items that are unclear during the data process.
+   - Create a codebook for the data that will aid in further data processing and volunteer collection effforts.  
+   - Bring the pieces above together to create a sketch of all the steps of the process including quality checks that should occur at each stage. 
   
 3. Summarize, analyze, and present key preliminary findings:
     - Develop an Rmarkdown template to report overall NeCSA and Manomet data trends and results for individuals sites. 
