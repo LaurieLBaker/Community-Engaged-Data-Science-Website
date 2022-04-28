@@ -26,6 +26,6 @@ user_groups:
 
 ---
 
-My name is Laurie Baker and my pronouns are she/her. I am a Visiting Assistant Professor in Digital and Computation Studies at Bates College. My research focuses on spatial and temporal patterns in human and biological systems, including disease spread, animal movement, and economic activities such as fishing and shipping. I use spatiotemporal modelling and other data science techniques to understand these patterns and to evaluate the impact of interventions and policy decisions. 
+Laurie Baker (she/her) is a Visiting Assistant Professor in Digital and Computational Studies at Bates College. Her research focuses on spatial and temporal patterns in human and biological systems, including disease spread, animal movement, and economic activities such as fishing and shipping. She uses spatiotemporal modelling and other data science techniques to understand these patterns and to evaluate the impact of interventions and policy decisions. 
 
-My work also focuses on the development of open-source materials that lower barriers to data science education and equip communities with the tools to engage in data science work so that they can address issues of local importance. 
+She is also passionate about designing open-source education materials to equip communities with the tools to engage in data science work so that they can address issues of local importance.

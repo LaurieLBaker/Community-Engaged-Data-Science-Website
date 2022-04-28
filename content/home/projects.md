@@ -25,22 +25,6 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Social Justice"
-    tag = "Social Justice"
-  
-  [[content.filter_button]]
-    name = "Health"
-    tag = "Health"
-
-  [[content.filter_button]]
-    name = "Epidemiology"
-    tag = "Epidemiology"
-    
-  [[content.filter_button]]
-    name = "Environmental Monitoring"
-    tag = "Environmental Monitoring"
-  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
