@@ -13,7 +13,7 @@ tags:
 - text analysis
 
 
-title: Prison Reform and Parole in Maine: public perceptions, media coverage, and the statistics on parole outcomes. 
+title: Parole in Maine - what can we learn from public perceptions, media coverage, and parole outcomes and prison reform in other states?
 ---
 
 Maine was the first state to abolish parole in 1976 and remains one of 16 states that does not offer parole. A reform bill to reinstate parole was recently passed in the house and the senate in Maine (see the full article in [The Maine Public](https://www.mainepublic.org/courts-and-crime/2021-12-14/a-bill-to-restore-parole-in-maine-passed-in-the-house-and-senate-its-been-sitting-on-janet-mills-desk-for-months). The state legislature announced in April the creation of a 13-member commission to study restoring parole, with a December 1 deadline to make its recommendations ([WMTW](https://www.wmtw.com/article/parole-in-maine/39765482#))
