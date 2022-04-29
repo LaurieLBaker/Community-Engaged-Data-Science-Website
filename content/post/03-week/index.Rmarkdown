@@ -39,7 +39,7 @@ projects: []
 |:---|:---|:---|:----|
 | Reproducible Reporting with RMarkdown | Tue, 17 May | 9.00-12.00 am | DCS Lounge |
 | Independent Tutorial 2 | Wed, 18 May | 10.00-12.00 pm | DCS Lounge |
-| Independent Tutorial 3 | Thu, 19 May | 10.00-12.00 pm |  DCS Lounge |
+| Independent Tutorial 3 | Thu, 19 May | 10.00-12.00 pm | DCS Lounge |
 
 ### Assignments
 

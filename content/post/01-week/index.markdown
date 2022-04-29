@@ -38,8 +38,9 @@ projects: []
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
+| Library trip | MPAC library newspaper search | Thu, 5 May | 3.00-4.00
 | Field Trip | NECSA/Manoment Project: Sampling Field Trip | Fri, 6 May | 8.00-11.00
-| Library trip | MPAC library newspaper search | Fri, 6 May | 11.00-12.00
+
 
 ### Optional Morning Tutorials (sign up as part of PDP)
 
@@ -47,7 +48,7 @@ projects: []
 |:---|:---|:---|:----|
 | Introduction to the community | Tue, 3 May | 10.00-11.00 am |  Harward Center |
 | Personal Development Plan Check-ins | Wed, 4 May | 4.00-5.00 pm | DCS Lounge |
-| RStudio, tidy data and dplyr verbs | Thu, 5 May | 9.00-10.30 am | DCS Lounge |
+| RStudio, tidy data and dplyr verbs | Thu, 5 May | 10.30-12.00 am | DCS Lounge |
 | Personal Development Plan Check-ins | Thu, 5 May | 1.00-2.00 pm | DCS Lounge |
 
 
