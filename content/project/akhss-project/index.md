@@ -28,7 +28,7 @@ url_video: ""
 
 In partnership with the MaineHealth Center for Tobacco Independence (CTI), AK Health and Social Services are reviewing the cultural context, societal structures and experiences with acculturation that inform/predict exposure and current/future use of tobacco by Maine’s immigrant and refugee individuals, families and communities. For the purposes of the study, the term “immigrants” is inclusive of individuals, families and communities that are/or identify as immigrants, refugees, asylum seekers, undocumented people, and their children/family members from diverse countries, all of whom are living throughout Maine. 
 
-The goal of this community project is to analyze responses from a survey assessing tobacco use and exposure to second hand smoke amongst immigrant communities in Maine. The survey asks participants to reflect on the usage of tobacco before and after coming to the US as part of a broader project by CTI and the Center for Disease Control (CDC) which looks to study questions including but not limited to: 
+The goal of this community project is to analyze responses from a survey assessing tobacco use and exposure to second hand smoke amongst immigrant communities in Maine and present the results in a report summarizing the key findings. The survey asks participants to reflect on the usage of tobacco before and after coming to the US as part of a broader project by CTI and the Center for Disease Control (CDC) which looks to study questions including but not limited to: 
 
 ∙ How does acculturation affect patterns of tobacco use and exposure among immigrants in Maine?  
 ∙ How does gender and other factors impact tobacco use among members of certain immigrants  (country of origin, religion, shared culture, etc.)?  
