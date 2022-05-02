@@ -67,7 +67,13 @@ Student efforts will be continued this summer by an Environmental Data Initiativ
 - Science communication
 - Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing environmental data from start to finish. 
 
+### Data
+
+- Overview of the data on [Github](https://laurielbaker.github.io/NeSCA-Field-Stations/NeCSA-Data-Exploration.html) and the [GitHub repository](https://github.com/LaurieLBaker/NeSCA-Field-Stations).
+
 ### Resources
+
+These resources are a starting place which you can add to.
 
 **Manomet**
 
@@ -78,11 +84,6 @@ Student efforts will be continued this summer by an Environmental Data Initiativ
 **NeCSA**
 
 - [Gulf of Maine Warming Update: 2021 from the Gulf of Maine Research Institute](https://www.gmri.org/stories/gulf-of-maine-warming-update-summer-2021/)
-
-### Data
-
-- Overview of the data on [Github](https://laurielbaker.github.io/NeSCA-Field-Stations/NeCSA-Data-Exploration.html) and the [GitHub repository](https://github.com/LaurieLBaker/NeSCA-Field-Stations).
-
 
 ### Acknowledgments
 

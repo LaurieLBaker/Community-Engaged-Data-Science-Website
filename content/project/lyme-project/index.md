@@ -54,6 +54,8 @@ Source: [The Maine Tracking Network](https://gateway.maine.gov/cognos/cgi-bin/co
 
 ### Resources:
 
+These resources are a starting place which you can add to.
+
 **Ticks and Lyme Disease**
 - [Ticks and tick-borne diseases reference sheet](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/documents/tick-reference-guide.pdf)
 - [Tick ecology and tick testing](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/lyme/tick-ecology-and-tick-testing.shtml)

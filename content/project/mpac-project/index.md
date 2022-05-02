@@ -42,7 +42,8 @@ Project 2 looks broadly at what can we learn about recividivism and desistance f
 This project is in collaboration with the [Maine Prisoner Advocacy Coalition](https://www.maineprisoneradvocacy.org).
 
 
-### Project Reading and Resources
+### Resources
+
 * [Defining, Measuring, and Analyzing Desistance by Prof. Michael Roque](https://nij.ojp.gov/topics/articles/what-does-it-mean-defining-measuring-and-analyzing-desistance-crime-criminal#about-author--0)
 * [Incareration Trends Interactive Map - Vera Institute](https://trends.vera.org/)
 * [Overlooked: Women and Jails in an Era of Reform](https://www.vera.org/publications/overlooked-women-and-jails-report)

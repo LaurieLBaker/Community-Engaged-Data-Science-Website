@@ -49,10 +49,16 @@ In the project, students will analyze survey data from more than 150 respondents
 - Statistical analysis techniques applied to health data
 - Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing survey data from start to finish. 
 
-### Data
-
-This section will be updated with information about how to access the data.
-
 ### Resources
 
-This section will be updated with readings and resources.
+These resources are a starting place which you can add to.
+
+* [Global Health Organization: Overview of Tobacco Use and Control](https://www.who.int/data/gho/data/themes/topics/sdg-target-3_a-tobacco-control)
+* [CDC Smoking and Tobacco Use](https://www.cdc.gov/tobacco/)
+* [State Tobacco Activities Tracking and Evaluation System ](https://www.cdc.gov/statesystem/interactivemaps.html)
+* [Survey Analysis in R](https://epirhandbook.com/en/survey-analysis.html)
+
+### Data
+
+Data will be distributed to the team during class.
+
