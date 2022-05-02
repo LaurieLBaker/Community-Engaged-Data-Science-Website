@@ -55,4 +55,4 @@ This section will be updated with information about how to access the data.
 
 ### Resources
 
-This section will be updated with readings and resources. 
+This section will be updated with readings and resources.

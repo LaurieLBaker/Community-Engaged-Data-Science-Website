@@ -77,4 +77,13 @@ Student efforts will be continued this summer by an Environmental Data Initiativ
 
 **NeCSA**
 
+- [Gulf of Maine Warming Update: 2021 from the Gulf of Maine Research Institute](https://www.gmri.org/stories/gulf-of-maine-warming-update-summer-2021/)
+
 ### Data
+
+- Overview of the data on [Github](https://laurielbaker.github.io/NeSCA-Field-Stations/NeCSA-Data-Exploration.html) and the [GitHub repository](https://github.com/LaurieLBaker/NeSCA-Field-Stations).
+
+
+### Acknowledgments
+
+Special thanks to [Matt Clayton '23](https://github.com/mlclayton6) for preparing and creating initial visualizations of the data. 
