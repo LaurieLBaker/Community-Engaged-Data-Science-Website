@@ -57,9 +57,10 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| PDP 01 | [Personal Development Plan](https://lyceum.bates.edu/login/index.php) | Tue, 3 May, 23:59 EST |
+| PDP 01 | [Personal Development Plan](https://forms.gle/LqGXuk4CKatjxtHaA) | Tue, 3 May, 23:59 EST |
+| TC 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Wed, 4 May, 23:59 EST |
 | PM 01 | [Project Plan and Kanban](https://lyceum.bates.edu/login/index.php) | Thu, 7 May, 23:59 EST |
-| E 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Fri, 8 May, 23:59 EST |
+
 | *Due next week* | | |
 | E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Tue,  May 12, 23:59 EST |
 | C 01 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 14 May, 23:59 EST |
