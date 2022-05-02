@@ -33,7 +33,7 @@ For programming and statistics you might find the following useful:
 - [RStudio Cloud](https://rstudio.cloud/)
 - [GitHub](https://github.com/) 
 
-##X Cheatsheets
+## Cheatsheets
 
 - [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 - [R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)

@@ -25,14 +25,20 @@
   weight = 62
 
 [[main]]
+  name = "PDP Plan"
+  url = "#pdp_plan"
+  weight = 75
+
+
+[[main]]
   name = "Help"
   url = "#help"
-  weight = 70
+  weight = 85
 
 [[main]]
   name = "Resources"
   url = "#resources"
-  weight = 80
+  weight = 90
   
 [[main]]
   name = "People"

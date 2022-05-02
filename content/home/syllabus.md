@@ -75,7 +75,7 @@ The reader of the project plan should understand why you are doing this project,
 
 *Note:* Because the final reports from this class are put onto a website (this website!) that can be viewed by the public, you must pay particular attention to copyright issues in preparing your report. Any images you incorporate into the final report must be available in the public domain. Care must also be exercised in the usage and citing of textual material. If you have questions about whether inclusion of something in your report would infringe on copyright laws, you can refer to the following site: http://www.bates.edu/ils/policies/access-use/copyright/. You should also speak with Chris Schiff, Music and Arts Librarian (cschiff@bates.edu), if you have any concerns about intellectual property.
 
-* **Personal Development Reflections**: As part of this project you will be submitting a plan for personal development. I will meet with each of you 1 on 1 during the first week to discuss and form your project goals. Throughout the course there will weekly reflections to reflect on progress towards these goals.
+* **Personal Development Plan and Reflections**: As part of this project you will be submitting a plan for personal development. I will meet with each of you 1 on 1 during the first week to discuss and form your project goals. Throughout the course there will weekly reflections to reflect on progress towards these goals.
 
 ## Key Course Policies:
 
