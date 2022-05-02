@@ -21,9 +21,8 @@ projects: []
 #### Tasks
 
 - Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud.
-- Complete the [Getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
-- Sign up for morning tutorials. 
-- Submit your personal development plan (PDP) and sign up for a meeting slot. 
+- Complete the [Project Preferences and getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
+- Submit your personal development plan (PDP), sign up for morning tutorials, and sign up for a meeting slot to discuss your PDP. 
 
 ### Joint Class Activities
 
