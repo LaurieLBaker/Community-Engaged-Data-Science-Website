@@ -31,6 +31,7 @@ These goals should be SMART (Specific, Measurable, Achievable, Relevant, and Tim
 * Relevance: Learning GitHub will allow me to collaborate on the project with my teammates. 
 
 **Example Goal 2:** Improve my skills in data visualization
+
 **Plan (during course):** 
 * Attend ggplot2 tutorial, 
 * Work through independent gganimate/RShiny tutorials/leaflet tutorials, 
@@ -39,7 +40,7 @@ These goals should be SMART (Specific, Measurable, Achievable, Relevant, and Tim
 Other goals could be: 
 - Learn and implement a machine learning model, 
 - Learn and grow confidence in R programming, 
-- Learn and grown confidence in Python programming, 
+- Learn and grow confidence in Python programming, 
 - Explore data science career options, 
 - Improve leadership skills (lead sprint planning, or sprint retrospective, meetings with partners), 
 - Improve science communication writing skills, 
@@ -49,4 +50,4 @@ Other goals could be:
 
 **Support**
 
-There will be several morning tutorials, readings, designed to help you work toward your goals, there will also be open tutorial slots where you can come and work on an independent tutorial. The [R for Data Science](https://trello.com/b/srJg0sHp/r-resources-for-data-science) and [Python for Data Science](https://trello.com/b/srJg0sHp/python-resources-for-data-science) trello boards can help you get ideas for technical skills. I will help you find materials for the independent tutorials but you can also find your own. I encourage you to attend at least 2 morning tutorials during the course. You may also plan your own tutorial work time outside of the course (signed off by me).
+There will be several morning tutorials, readings, designed to help you work toward your goals, there will also be open tutorial slots where you can come and work on an independent tutorial. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) and [Python for Data Science](https://trello.com/b/srJg0sHp/python-resources-for-data-science) trello boards can help you get ideas for technical skills. I will help you find materials for the independent tutorials but you can also find your own. I encourage you to attend at least 2 morning tutorials during the course. You may also plan your own tutorial work time outside of the course (signed off by me).

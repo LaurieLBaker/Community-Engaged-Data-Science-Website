@@ -36,6 +36,7 @@ projects: []
  | <div style="width:280px;text-align:left">Title</div> | <div style="width:100px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> | <div  style="width:120px;text-align:left">Location </div> |
 |:---|:--|:--|:--|
 | Data Science Careers (CV workshop) | Tue, 24 May | 10.00-12.00 am | DCS Lounge |
+
 ### Assignments
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |

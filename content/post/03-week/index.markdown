@@ -47,10 +47,9 @@ projects: []
 |:---|:---|:---|
 | *Due this week* | | |
 | R 03 | [Submit Weekly Reflections](https://lyceum.bates.edu/login/index.php) | Fri, 20 May, 23:59 EST |
-
 | *Due next week* | | |
 | R 01 | [Submit Final Reports and Code](https://lyceum.bates.edu/login/index.php) | Thu, 26 May, 23:59 EST |
-| PDP 03 | [Submit Final PDP Progress Reflections(https://lyceum.bates.edu/login/index.php) | Thu, 26 May, 23:59 EST |
+| PDP 03 | [Submit Final PDP Progress Reflections](https://lyceum.bates.edu/login/index.php) | Thu, 26 May, 23:59 EST |
 
 
 ### Readings
