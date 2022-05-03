@@ -20,7 +20,7 @@ projects: []
 
 #### Tasks
 
-- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud.
+- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud (link coming shortly).
 - Complete the [Project Preferences and getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
 - Submit your personal development plan (PDP), sign up for morning tutorials, and sign up for a meeting slot to discuss your PDP. 
 
@@ -59,7 +59,6 @@ projects: []
 | PDP 01 | [Personal Development Plan](https://forms.gle/LqGXuk4CKatjxtHaA) | Tue, 3 May, 23:59 EST |
 | TC 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Wed, 4 May, 23:59 EST |
 | PM 01 | [Project Plan and Kanban](https://lyceum.bates.edu/login/index.php) | Thu, 7 May, 23:59 EST |
-
 | *Due next week* | | |
 | E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Tue,  May 12, 23:59 EST |
 | C 01 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 14 May, 23:59 EST |
