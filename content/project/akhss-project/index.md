@@ -58,6 +58,7 @@ These resources are a starting place which you can add to.
 * [State Tobacco Activities Tracking and Evaluation System ](https://www.cdc.gov/statesystem/interactivemaps.html)
 * [Survey Analysis in R](https://epirhandbook.com/en/survey-analysis.html)
 * [Data Privacy Considerations](https://the-turing-way.netlify.app/reproducible-research/open/open-data.html)
+* [Personal Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html)
 
 ### Data
 
