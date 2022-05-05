@@ -13,3 +13,5 @@ This course draws on several resources including the [Turing Way](https://the-tu
 
 
 The course structure and grading system draws heavily upon course organization and policies in ENVR 417, Community Engaged Research and PIC MATH, and the work of Bates faculty Ethan Miller, Misty Beck, Francis Eanes, Adriana Salerno as well as scholars beyond Bates.
+
+The website structure is inspired by the 2020 Data Science course website taught by Mine Çetinkaya-Rundel at the University of Edinburgh. 
