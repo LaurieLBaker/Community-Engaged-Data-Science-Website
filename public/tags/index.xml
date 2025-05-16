@@ -2,173 +2,181 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | DCS 210</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:7913/tags/</link>
+      <atom:link href="//localhost:7913/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2025</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>//localhost:7913/img/avatar.jpg</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>//localhost:7913/tags/</link>
     </image>
     
     <item>
-      <title>advocacy</title>
-      <link>/tags/advocacy/</link>
+      <title>Advocacy</title>
+      <link>//localhost:7913/tags/advocacy/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/advocacy/</guid>
+      <guid>//localhost:7913/tags/advocacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biodiversity</title>
-      <link>/tags/biodiversity/</link>
+      <link>//localhost:7913/tags/biodiversity/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/biodiversity/</guid>
+      <guid>//localhost:7913/tags/biodiversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Citizen Science</title>
-      <link>/tags/citizen-science/</link>
+      <link>//localhost:7913/tags/citizen-science/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/citizen-science/</guid>
+      <guid>//localhost:7913/tags/citizen-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coastal Monitoring</title>
-      <link>/tags/coastal-monitoring/</link>
+      <link>//localhost:7913/tags/coastal-monitoring/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/coastal-monitoring/</guid>
+      <guid>//localhost:7913/tags/coastal-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environmental Data</title>
-      <link>/tags/environmental-data/</link>
+      <link>//localhost:7913/tags/environmental-data/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/environmental-data/</guid>
+      <guid>//localhost:7913/tags/environmental-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maine</title>
-      <link>/tags/maine/</link>
+      <title>Epidemiology</title>
+      <link>//localhost:7913/tags/epidemiology/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/maine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>prison reform</title>
-      <link>/tags/prison-reform/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/prison-reform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quality Control</title>
-      <link>/tags/quality-control/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/quality-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social justice</title>
-      <link>/tags/social-justice/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/social-justice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temperature</title>
-      <link>/tags/temperature/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/temperature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text analysis</title>
-      <link>/tags/text-analysis/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/text-analysis/</guid>
+      <guid>//localhost:7913/tags/epidemiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>/tags/health/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/health/</guid>
+      <link>//localhost:7913/tags/health/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immigration</title>
-      <link>/tags/immigration/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/immigration/</guid>
+      <link>//localhost:7913/tags/immigration/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/immigration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyme Disease</title>
+      <link>//localhost:7913/tags/lyme-disease/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/lyme-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maine</title>
+      <link>//localhost:7913/tags/maine/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/maine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Surveillance</title>
+      <link>//localhost:7913/tags/passive-surveillance/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/passive-surveillance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prison Reform</title>
+      <link>//localhost:7913/tags/prison-reform/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/prison-reform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Control</title>
+      <link>//localhost:7913/tags/quality-control/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/quality-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting</title>
+      <link>//localhost:7913/tags/reporting/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/reporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smoking</title>
-      <link>/tags/smoking/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/smoking/</guid>
+      <link>//localhost:7913/tags/smoking/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/smoking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Survey</title>
-      <link>/tags/survey/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/survey/</guid>
+      <title>Social Justice</title>
+      <link>//localhost:7913/tags/social-justice/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/social-justice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>epidemiology</title>
-      <link>/tags/epidemiology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/epidemiology/</guid>
+      <title>Survey Data</title>
+      <link>//localhost:7913/tags/survey-data/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/survey-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>lyme disease</title>
-      <link>/tags/lyme-disease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/lyme-disease/</guid>
+      <title>Temperature</title>
+      <link>//localhost:7913/tags/temperature/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/temperature/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>passive surveillance</title>
-      <link>/tags/passive-surveillance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/passive-surveillance/</guid>
+      <title>Text Analysis</title>
+      <link>//localhost:7913/tags/text-analysis/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/text-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>reporting</title>
-      <link>/tags/reporting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/reporting/</guid>
+      <title>Ticks</title>
+      <link>//localhost:7913/tags/ticks/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/ticks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ticks</title>
-      <link>/tags/ticks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/ticks/</guid>
+      <title>Tobacco Use</title>
+      <link>//localhost:7913/tags/tobacco-use/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:7913/tags/tobacco-use/</guid>
       <description></description>
     </item>
     

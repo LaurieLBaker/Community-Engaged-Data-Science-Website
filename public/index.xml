@@ -2,30 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DCS 210</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:7913/</link>
+      <atom:link href="//localhost:7913/index.xml" rel="self" type="application/rss+xml" />
     <description>DCS 210</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2025</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>//localhost:7913/img/avatar.jpg</url>
       <title>DCS 210</title>
-      <link>/</link>
+      <link>//localhost:7913/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>//localhost:7913/project/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <guid>//localhost:7913/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>//localhost:7913/post/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/</guid>
+      <guid>//localhost:7913/post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>//localhost:7913/privacy/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
+      <guid>//localhost:7913/privacy/</guid>
+      <description>&lt;p&gt;This website only contains publicly available content from the DCMA S34 Community-Engaged Data Science.
+Any materials available to only officially enrolled students are hosted on Lyceum, the learning management system used at Bates College.
+Student work is completed and submitted as private GitHub repositories which are visible only to officially enrolled students and course organizer and tutors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>//localhost:7913/terms/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0100</pubDate>
+      <guid>//localhost:7913/terms/</guid>
+      <description>&lt;p&gt;All materials on this website are released under the Creative Commons Attribution-ShareAlike 4.0 International license.
+For more information on the license and terms of (re)use, see &lt;a href=&#34;https://github.com/ids-s1-20/website/blob/master/LICENSE.md&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

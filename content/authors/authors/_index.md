@@ -2,12 +2,12 @@
 
 name: Dr. Laurie Baker
 organizations:
-- name: Bates College
+- name: College of the Atlantic
   url: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lbaker@bates.edu"
+  link: "mailto:lbaker@coa.edu"
 - icon: home
   icon_pack: fas
   link: https://lauriebaker.rbind.io/
@@ -26,6 +26,6 @@ user_groups:
 
 ---
 
-Laurie Baker (she/her) is a Visiting Assistant Professor in Digital and Computational Studies at Bates College. Her research focuses on spatial and temporal patterns in human and biological systems, including disease spread, animal movement, and economic activities such as fishing and shipping. She uses spatiotemporal modelling and other data science techniques to understand these patterns and to evaluate the impact of interventions and policy decisions. 
+Laurie Baker (she/her) is an Assistant Professor at the College of the Atlantic. Her research focuses on spatial and temporal patterns in human and biological systems, including disease spread, animal movement, and economic activities such as fishing and shipping. She uses spatiotemporal modelling and other data science techniques to understand these patterns and to evaluate the impact of interventions and policy decisions. 
 
 She is also passionate about designing open-source education materials to equip communities with the tools to engage in data science work so that they can address issues of local importance.

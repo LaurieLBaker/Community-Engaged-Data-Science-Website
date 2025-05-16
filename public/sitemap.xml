@@ -2,109 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/laurie/</loc>
+    <loc>//localhost:7913/authors/authors/</loc>
   </url><url>
-    <loc>/authors/sam/</loc>
+    <loc>//localhost:7913/authors/sam/</loc>
   </url><url>
-    <loc>/tags/advocacy/</loc>
+    <loc>//localhost:7913/tags/advocacy/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/biodiversity/</loc>
+    <loc>//localhost:7913/tags/biodiversity/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/citizen-science/</loc>
+    <loc>//localhost:7913/tags/citizen-science/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/coastal-monitoring/</loc>
+    <loc>//localhost:7913/tags/coastal-monitoring/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/necsa-manomet-project/</loc>
+    <loc>//localhost:7913/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:7913/project/necsa-manomet-project/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/environmental-data/</loc>
+    <loc>//localhost:7913/tags/environmental-data/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/maine/</loc>
+    <loc>//localhost:7913/tags/epidemiology/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/prison-reform/</loc>
+    <loc>//localhost:7913/tags/health/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>//localhost:7913/tags/immigration/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/quality-control/</loc>
+    <loc>//localhost:7913/tags/lyme-disease/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-justice/</loc>
+    <loc>//localhost:7913/tags/maine/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:7913/project/lyme-project/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/temperature/</loc>
+    <loc>//localhost:7913/project/mpac-project/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/text-analysis/</loc>
+    <loc>//localhost:7913/tags/passive-surveillance/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/mpac-project/</loc>
+    <loc>//localhost:7913/tags/prison-reform/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:7913/project/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/quality-control/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/reporting/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/smoking/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/social-justice/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/survey-data/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/temperature/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/text-analysis/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/ticks/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/tags/tobacco-use/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/project/akhss-project/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:7913/post/</loc>
     <lastmod>2021-05-22T21:05:56-04:00</lastmod>
   </url><url>
-    <loc>/post/04-week/</loc>
+    <loc>//localhost:7913/post/04-week/</loc>
     <lastmod>2021-05-22T21:05:56-04:00</lastmod>
   </url><url>
-    <loc>/post/03-week/</loc>
+    <loc>//localhost:7913/post/03-week/</loc>
     <lastmod>2021-05-15T21:32:46-04:00</lastmod>
   </url><url>
-    <loc>/post/02-week/</loc>
+    <loc>//localhost:7913/post/02-week/</loc>
     <lastmod>2021-05-08T11:56:23-04:00</lastmod>
   </url><url>
-    <loc>/post/00-overview/</loc>
-    <lastmod>2021-01-04T10:39:50-04:00</lastmod>
+    <loc>//localhost:7913/post/00-overview/</loc>
+    <lastmod>2021-05-01T10:39:50-04:00</lastmod>
   </url><url>
-    <loc>/post/01-week/</loc>
+    <loc>//localhost:7913/post/01-week/</loc>
     <lastmod>2021-05-01T11:19:34-04:00</lastmod>
   </url><url>
-    <loc>/tags/health/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:7913/privacy/</loc>
+    <lastmod>2020-09-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/immigration/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:7913/terms/</loc>
+    <lastmod>2020-09-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/smoking/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:7913/authors/admin/</loc>
   </url><url>
-    <loc>/tags/survey/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:7913/authors/</loc>
   </url><url>
-    <loc>/project/akhss-project/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:7913/categories/</loc>
   </url><url>
-    <loc>/authors/admin/</loc>
-  </url><url>
-    <loc>/authors/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/epidemiology/</loc>
-  </url><url>
-    <loc>/tags/lyme-disease/</loc>
-  </url><url>
-    <loc>/project/lyme-project/</loc>
-  </url><url>
-    <loc>/tags/passive-surveillance/</loc>
-  </url><url>
-    <loc>/publication_types/</loc>
-  </url><url>
-    <loc>/tags/reporting/</loc>
-  </url><url>
-    <loc>/tags/ticks/</loc>
+    <loc>//localhost:7913/publication_types/</loc>
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 ---
-date: "2022-04-25 T00:00:00Z"
+date: 2022-04-25
 external_link: ""
 image:
   caption: Sign saying "Beware of ticks with hikers walking through woods in the background."

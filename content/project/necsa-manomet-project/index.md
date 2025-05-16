@@ -1,5 +1,5 @@
 ---
-date: "2022-04-25T00:00:00Z"
+date: 2022-04-25
 external_link: 
 image:
   caption: Recorded water temperature (celsius) by NeCSA Field Station from July 2016 to September 2018. Field stations along the Maine and New Hampshire coast show similar broad seasonal trends but different daily fluctuations in temperature.

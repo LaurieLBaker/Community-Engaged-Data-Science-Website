@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | DCS 210</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:7913/categories/</link>
+      <atom:link href="//localhost:7913/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2025</copyright>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>//localhost:7913/img/avatar.jpg</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>//localhost:7913/categories/</link>
     </image>
     
   </channel>
